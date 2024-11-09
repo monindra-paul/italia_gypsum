@@ -14,7 +14,10 @@
         <div class="row g-0 align-items-center">
             <div class="col-lg-5">
                 <div class="thumbnail m-img">
-                    <img src="assets/images/italia/plaster222board.webp" alt="team-image">
+                    <img src="assets/images/italia/regular-board.png" alt="team-image" style="border-radius: 10px">
+                </div>
+                <div class="thumbnail m-img">
+                    <img src="assets/images/italia/regular-board2.png" alt="team-image" style="border-radius: 10px">
                 </div>
             </div>
             <div class="col-lg-7">
@@ -23,9 +26,9 @@
                         <span class="pre-title">
                            Plaster Boards
                         </span>
-                        <h3 class="title animated fadeIn">Universal Plaster Boards</h3>
+                        <h3 class="title animated fadeIn">Regular Plaster Boards</h3>
                         <p class="disc">
-                            Universal board is ideal for walls and ceilings. These lightweight, high-performance boards are easy to install, provide great strength, smooth finishwith perfect dimensions and offer a great value for money. Universal boards meet the relevant ASTM and IS standards.
+                            Regular Plaster board is ideal for walls and ceilings. These lightweight, high-performance boards are easy to install, provide great strength, smooth finishwith perfect dimensions and offer a great value for money. Regular Plaster boards meet the relevant ASTM standards.
                         </p>
                         <!-- ingle information start -->
 
@@ -36,49 +39,107 @@
                             <table class="table table-hover">
                                 <thead>
                                   <tr>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;" scope="col">Dimensions	</th>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">Standard	</th>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">On request
+                                    <th style="background-color: rgb(0, 4, 79); color:white;" scope="col">Properties (per 12.5 mm)	</th>
+                                    <th class="pl-2" style="background-color: rgb(0, 4, 79); color:white;"  scope="col">ASTM 1396:2006 Specification</th>
+                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">Italia Gypsum Specification
                                     </th>
                                   </tr>
                                 </thead>
                                 <tbody>
                                   <tr>
-                                    <td>Length</td>
-                                    <td>1830	</td>
-                                    <td>1800-3600
+                                    <td>Type</td>
+                                    <td>A	</td>
+                                    <td>A
                                     </td>
                                   </tr>
                                   <tr>
-                                    <td>Width	</td>
-                                    <td>1220</td>
-                                    <td>1200</td>
+                                    <td>Flexural Strength (N) Longitudinal</td>
+                                    <td>476	</td>
+                                    <td> > 560
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td>Flexural Strength (N) Transverse	</td>
+                                    <td>160</td>
+                                    <td>> 220</td>
                                   </tr>
                                   <tr>
                                     
                                    
-                                    <td>Thickness	</td>
-                                    <td>12.5		</td>
-                                    <td>7,8,9,9.5,12,15,18
+                                    <td>Nail Pull Resistance	</td>
+                                    <td>343		</td>
+                                    <td>360
                                     </td>
                                   </tr>
                                 <tr>
                                     
                                    
-                                    <td>Edge profile		</td>
-                                    <td>Tapered		</td>
-                                    <td>Squared, Bevelled, Round
+                                    <td>Core Hardness		</td>
+                                    <td>> 49</td>
+                                    <td>> 70
                                     </td>
                                   </tr>
                                 <tr>
                                     
                                    
-                                    <td>Appearance	</td>
-                                    <td>	Face: Ivory, Back: Grey			</td>
+                                    <td>Edge Hardness	</td>
+                                    <td>	> 49	</td>
+                                    <td>	> 60	</td>
                                    
                                   </tr>
+                                  
+                                  <tr>
+                                    
+                                   
+                                    <td>Thickness (mm)</td>
+                                    <td>	&#x2213 0.40	</td>
+                                    <td>	&#x2213 0.20	</td>
+                                   
+                                  </tr>
+                                  <tr>
+                                    
+                                   
+                                    <td>Board length (mm)</td>
+                                    <td>	&#x2213 6.00	</td>
+                                    <td>	0, - 2.0 mm	</td>
+                                   
+                                  </tr>
+
+                                  <tr>
+                                    
+                                   
+                                    <td>Board Width (mm)</td>
+                                    <td>	- 3.00	</td>
+                                    <td>	0, - 2.0 mm	</td>
+                                   
+                                  </tr>
+                                  <tr>
+                                    
+                                   
+                                    <td>End Squareness (mm)</td>
+                                    <td>	&#x2213 3.20	</td>
+                                    <td>	&#x2213 2.00	</td>
+                                   
+                                  </tr>
+                                  <tr>
+                                    
+                                   
+                                    <td>Weight (kg/m <sup>2</sup> )</td>
+                                    <td>	-	</td>
+                                    <td>	8.00 &#x2213 2.00	</td>
+                                   
+                                  </tr>
+                                  <tr>
+                                    
+                                   
+                                    <td>Humidified Deflection</td>
+                                    <td>	32 mm	</td>
+                                    <td>	32 mm	</td>
+                                   
+                                  </tr>
+                                 
                                 </tbody>
-                              </table>
+                            </table>
                         </div>
                         <!-- ingle information end -->
                     </div>

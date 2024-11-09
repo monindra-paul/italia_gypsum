@@ -14,7 +14,10 @@
         <div class="row g-0 align-items-center">
             <div class="col-lg-5">
                 <div class="thumbnail m-img">
-                    <img src="assets/images/italia/aqua-main.webp" alt="team-image">
+                    <img src="assets/images/italia/mr.png" alt="team-image">
+                </div>
+                <div class="thumbnail m-img">
+                    <img src="assets/images/italia/mr-use.webp" alt="team-image" style="border-radius: 10px">
                 </div>
             </div>
             <div class="col-lg-7">
@@ -23,10 +26,10 @@
                         <span class="pre-title">
                            Plaster Boards
                         </span>
-                        <h3 class="title animated fadeIn">Aqua - Moisture Resistant
+                        <h3 class="title animated fadeIn"> Moisture Resistant
                             Plaster Boards</h3>
                         <p class="disc">
-                            Aqua boards are an ideal choice in areas like bathrooms, Kitchen, laundry etc., where the walls are susceptible to steam and moisture. Our specially formulated boards provide excellent moisture resistanceto walls which are susceptible to high humid conditions. Our Aqua boards meet ASTM, EN and IS standards.
+                            Moisture Resistant Plaster Boards are an ideal choice in areas like bathrooms, Kitchen, laundry etc., where the walls are susceptible to steam and moisture. Our specially formulated boards provide excellent moisture resistanceto walls which are susceptible to high humid conditions. Our Aqua boards meet ASTM, EN standards.
 
 
 
@@ -40,50 +43,123 @@
                             <table class="table table-hover">
                                 <thead>
                                   <tr>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;" scope="col">Dimensions	</th>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">Standard	</th>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">On request
+                                    <th style="background-color: rgb(0, 4, 79); color:white;" scope="col">Properties (per 12.5 mm)	</th>
+                                    <th class="pl-2" style="background-color: rgb(0, 4, 79); color:white;"  scope="col">ASTM 1396:2006 Specification</th>
+                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">Italia Gypsum Specification
                                     </th>
                                   </tr>
                                 </thead>
                                 <tbody>
                                   <tr>
-                                    <td>Length</td>
-                                    <td>1830	</td>
-                                    <td>1800-3600
+                                    <td>Type</td>
+                                    <td>H	</td>
+                                    <td>H
                                     </td>
                                   </tr>
                                   <tr>
-                                    <td>Width	</td>
-                                    <td>1220</td>
-                                    <td>1200</td>
+                                    <td>Flexural Strength (N) Longitudinal</td>
+                                    <td>476	</td>
+                                    <td> > 570
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td>Flexural Strength (N) Transverse	</td>
+                                    <td>160</td>
+                                    <td>> 240</td>
                                   </tr>
                                   <tr>
                                     
                                    
-                                    <td>Thickness	</td>
-                                    <td>12.5		</td>
-                                    <td>9.5,12,15,18
+                                    <td>Nail Pull Resistance	</td>
+                                    <td>343		</td>
+                                    <td>360
+                                    </td>
+                                  </tr>
+                                <tr>
+                                    
+                                   
+                                    <td>Core Hardness		</td>
+                                    <td>> 49</td>
+                                    <td>> 70
+                                    </td>
+                                  </tr>
+                                <tr>
+                                    
+                                   
+                                    <td>Edge Hardness	</td>
+                                    <td>	> 49	</td>
+                                    <td>	> 60	</td>
+                                   
+                                  </tr>
+                                  
+                                  <tr>
+                                    
+                                   
+                                    <td>Thickness (mm)</td>
+                                    <td>	&#x2213 0.40	</td>
+                                    <td>	&#x2213 0.20	</td>
+                                   
+                                  </tr>
+                                  <tr>
+                                    
+                                   
+                                    <td>Board length (mm)</td>
+                                    <td>	&#x2213 6.00	</td>
+                                    <td>	0, - 2.0 mm	</td>
+                                   
+                                  </tr>
 
-                                    </td>
-                                  </tr>
-                                <tr>
+                                  <tr>
                                     
                                    
-                                    <td>Edge profile		</td>
-                                    <td>Tapered		</td>
-                                    <td>Squared, Bevelled, Round
-                                    </td>
+                                    <td>Board Width (mm)</td>
+                                    <td>	- 3.00	</td>
+                                    <td>	0, - 2.0 	</td>
+                                   
                                   </tr>
-                                <tr>
+                                  <tr>
                                     
                                    
-                                    <td>Appearance	</td>
-                                    <td>	Face: Green, Back: Grey</td>
+                                    <td>End Squareness (mm)</td>
+                                    <td>	&#x2213 3.20	</td>
+                                    <td>	&#x2213 2.00	</td>
                                    
                                   </tr>
+                                  <tr>
+                                    
+                                   
+                                    <td>Water Absorption</td>
+                                    <td>	< 5%	</td>
+                                    <td>	Below 10%	</td>
+                                   
+                                  </tr>
+                                  <tr>
+                                    
+                                   
+                                    <td>Surface Water Absorption</td>
+                                    <td>	1.6 gms	</td>
+                                    <td>	9.00 &#x2213 0.20	</td>
+                                   
+                                  </tr>
+                                  <tr>
+                                    
+                                   
+                                    <td>Weight (kg/m <sup>2</sup> )</td>
+                                    <td>	-	</td>
+                                    <td>	8.00 &#x2213 2.00	</td>
+                                   
+                                  </tr>
+                                  <tr>
+                                    
+                                   
+                                    <td>Humidified Deflection</td>
+                                    <td>	32 mm	</td>
+                                    <td>	32 mm	</td>
+                                   
+                                  </tr>
+                                 
                                 </tbody>
-                              </table>
+                            </table></table>
                         </div>
                         <!-- ingle information end -->
                     </div>
@@ -216,7 +292,7 @@
                         </div>
                     </div> --}}
                     <div class="thumbnail-large-bottom">
-                        <img src="assets/images/italia/aqua-use.webp" alt="solar">
+                        <img src="assets/images/italia/mr-info.png" alt="solar">
                     </div>
                 </div>
             </div>

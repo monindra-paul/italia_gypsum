@@ -17426,6 +17426,10 @@ nav ul li a {
   background-image: url(../images/italia/pages/why22.webp);
 }
 
+.bg-breadcrumb-jointx {
+  background-image: url(../images/italia/j-m.webp);
+}
+
 .banner-one-swiper--wrapper-area .banner-main-wrapper-one .pre-title {
   transition-delay: 0.5s;
   opacity: 0;
@@ -30900,7 +30904,7 @@ form.appoinment-form .input-half-wrapper .single-input input {
 }
 
 .rts-bread-crumb-area .con-tent-main .wrapper .bg-text-stok {
-  font-size: 200px;
+  font-size: 150px;
   color: white;
   -webkit-text-fill-color: #8d8a8a00;
   -webkit-text-stroke-width: 1px;

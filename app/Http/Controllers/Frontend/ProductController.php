@@ -26,4 +26,16 @@ class ProductController extends Controller
     {
         return view('frontend.product.agniaquaPlaster');
     }
+
+
+    public function jointingComp()
+    {
+        return view('frontend.product.jointComp');
+    }
+
+
+    public function plaster()
+    {
+        return view('frontend.product.plaster');
+    }
 }

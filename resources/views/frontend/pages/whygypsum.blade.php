@@ -42,7 +42,7 @@
                                         <span> Why</span> Gypsum
                                     </p>
                                     <h2 class="title skew-up">
-                                        Benefits to use gypsum products
+                                        Benefits by using italia products
                                     </h2>
                                 </div>
                             </div>
@@ -99,6 +99,19 @@
                         </div>
                         <div class="about__feature--item">
                             <div class="feature__icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" x="0" y="0" viewBox="0 0 24 24" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><path d="M24 2h-1V0h-2v2H3V0H1v2H0v2h1v2h2V4h.974L9 11.311V24h2v-5h2v5h2V11.311L20.026 4H21v2h2V4h1V2ZM11 17v-5h2v5h-2Zm2.474-7h-2.947L6.402 4h11.197l-4.125 6ZM10 7a2 2 0 1 1 3.999-.001A2 2 0 0 1 10 7Z" fill="#04c600" opacity="1" data-original="#000000" class=""></path></g></svg>
+                            </div>
+                            <div class="feature__text">
+                                <h5>Light weight Board</h5>
+                                {{-- <span>Save World</span> --}}
+                            </div>
+                            {{-- <div class="feature__icon text-right">
+                                <img src="assets/images/about/icon/09.svg" alt="">
+                            </div> --}}
+                        </div>
+                        
+                        <div class="about__feature--item">
+                            <div class="feature__icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" version="1.1"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" x="0" y="0"
                                 viewBox="0 0 24 24" style="enable-background:new 0 0 512 512" xml:space="preserve"
@@ -111,7 +124,7 @@
                             </svg>
                             </div>
                             <div class="feature__text">
-                                <h5>Less Strain on <br>Natural Resources</h5>
+                                <h5>Machine plasters</h5>
                                 {{-- <span>Save World</span> --}}
                             </div>
                             {{-- <div class="feature__icon text-right">
@@ -128,43 +141,41 @@
                         <div class="about__feature__list">
                             <div class="about__feature--item">
                                 <div class="feature__icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" x="0" y="0" viewBox="0 0 64 64" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
-                                        <g>
-                                            <path d="M42.85 13.87c-3.78-.9-7.42-2.27-10.85-4.1a45.58 45.58 0 0 1-10.85 4.1A45.73 45.73 0 0 1 13 15.03v16.88c.14 3.11 1.08 9.25 5.82 14.86 4.51 5.34 10.1 7.36 13.18 8.11 3.08-.75 8.67-2.77 13.18-8.11 4.74-5.61 5.68-11.74 5.82-14.9V15.03a45.71 45.71 0 0 1-8.16-1.16zm-7.06 30.06c-3.64 1.28-8.15.56-10.69-2.33-1.37-1.55-2.09-3.13-1.52-6.86 1.12-7.3-.57-8.43-.57-8.43s3.22.83 5.02 5.52c0 0 .43-2.32.36-5.27s1.47-7.69 4.56-9.08c0 0-1.13 5.3.7 6.97 2.65 2.43 3.44 5.03 3.23 7.15 0 0 1.94-1.98 2-4.61 0 0 6.44 13.61-3.09 16.96z" fill="#04c600" opacity="1" data-original="#000000" class=""></path>
-                                            <path d="M44 9a40.309 40.309 0 0 1-12-5 40.309 40.309 0 0 1-12 5c-4.85 1.15-9.05 1.2-12 1v22c.1 2.49.75 10.6 7 18 6.42 7.61 14.6 9.53 17 10 2.4-.47 10.58-2.39 17-10 6.25-7.4 6.9-15.51 7-18V10c-2.95.2-7.15.15-12-1zm9 22.91c-.15 3.46-1.17 10.09-6.29 16.15-4.99 5.91-11.22 8.06-14.48 8.82-.07.02-.15.03-.23.03s-.15 0-.23-.03c-3.27-.76-9.49-2.91-14.48-8.82C12.17 42 11.15 35.37 11 31.95V14.07c0-.54.43-.98.97-1 2.94-.09 5.87-.47 8.72-1.15a43.8 43.8 0 0 0 10.83-4.16c.3-.16.66-.16.96 0 3.4 1.87 7.05 3.27 10.83 4.16 2.85.68 5.78 1.06 8.72 1.15.54.02.97.46.97 1v17.85z" fill="#04c600" opacity="1" data-original="#000000" class=""></path>
-                                        </g>
-                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" x="0" y="0" viewBox="0 0 24 24" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><path d="M8.5 9.5c0 .551.128 1.073.356 1.537a3.968 3.968 0 0 0-.836 2.256A5.484 5.484 0 0 1 6.5 9.501a5.51 5.51 0 0 1 6.659-5.381c2.082.428 3.769 2.105 4.213 4.184.134.628.159 1.243.091 1.831a.996.996 0 0 1-.997.866h-.045c-.592 0-1.008-.527-.943-1.115a3.486 3.486 0 0 0-2.655-3.79 3.507 3.507 0 0 0-4.324 3.405ZM4.61 8.205a7.426 7.426 0 0 1 2.261-4.178c1.529-1.433 3.531-2.141 5.63-2.011 3.953.256 7.044 3.719 6.998 7.865-.019 1.736-1.473 3.118-3.208 3.118h-2.406a1.994 1.994 0 0 0-3.91.561 2 2 0 0 0 2 2c.538 0 1.025-.215 1.384-.561h2.932c2.819 0 5.168-2.245 5.208-5.063.074-5.221-3.848-9.591-8.869-9.915a9.41 9.41 0 0 0-7.126 2.548 9.54 9.54 0 0 0-2.855 5.266 1 1 0 0 0 .989 1.166c.472 0 .893-.329.972-.795ZM12 17c-3.695 0-6.892 2.292-7.955 5.702a1 1 0 0 0 .657 1.253 1.006 1.006 0 0 0 1.252-.657C6.743 20.768 9.228 19 11.999 19s5.257 1.768 6.045 4.298a1 1 0 0 0 1.91-.596C18.891 19.292 15.694 17 11.999 17Z" fill="#04c600" opacity="1" data-original="#000000" class=""></path></g></svg>
                                 </div>
                                 <div class="feature__text">
-                                    <h5>Superior Fire<br> Resistance</h5>
+                                    <h5>Customer service</h5>
                                     {{-- <span>Installed Capacity</span> --}}
                                 </div>
                             </div>
                             <div class="about__feature--item">
                                 <div class="feature__icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" x="0" y="0" viewBox="0 0 511 511.999" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
-                                        <g>
-                                            <path d="M216.5 366c5.52 0 10-4.48 10-10s-4.48-10-10-10-10 4.48-10 10 4.48 10 10 10zm0 0" fill="#04c600" opacity="1" data-original="#000000" class=""></path>
-                                            <path d="m3.43 389.07 120 120a9.996 9.996 0 0 0 14.14 0l66-66a9.996 9.996 0 0 0 0-14.14l-2.93-2.93h144.15c12.66 0 24.741-4.746 34.058-13.395l121.316-113.699c11.613-10.785 15.461-27.918 9.57-42.629a38.492 38.492 0 0 0-23.851-22.355 38.492 38.492 0 0 0-32.453 3.957c-.063.039-26.934 17.672-26.934 17.672-.183-54.207-32.945-112.012-78.043-138.035a30.088 30.088 0 0 0 5.887-10.375c5.16-15.7-3.418-32.692-19.14-37.883-.493-.164-.985-.309-1.477-.461l25.742-46.242a9.989 9.989 0 0 0 .512-8.664 9.984 9.984 0 0 0-6.457-5.801C335.063 2.723 315.879 0 296.5 0c-19.375 0-38.562 2.723-57.02 8.086a9.997 9.997 0 0 0-5.945 14.469l25.742 46.242c-.5.156-1 .305-1.5.469-15.699 5.183-24.273 22.171-19.113 37.882a30.052 30.052 0 0 0 5.91 10.36C198.804 143.918 166.5 202.316 166.5 256c0 1.465.035 2.91.082 4.344-17.91 4.886-34.562 13.789-48.566 26.05l-30.391 26.59-4.055-4.054a9.996 9.996 0 0 0-14.14 0l-66 66a9.996 9.996 0 0 0 0 14.14zM257.332 24.184C270.145 21.402 283.27 20 296.5 20s26.355 1.402 39.172 4.184L313.387 64.21a121.925 121.925 0 0 0-33.77 0zm6.688 64.082c20.52-6.715 42.89-7.223 64.933-.008 5.246 1.73 8.11 7.402 6.387 12.637a9.94 9.94 0 0 1-8.887 6.855c-19.719-6.27-40.2-6.281-59.91-.02h-.004c-4.11-.257-7.598-2.945-8.879-6.832-1.723-5.242 1.14-10.914 6.36-12.632zm5.53 39.55c17.34-6.246 35.305-6.394 52.688-.421C368.7 143.37 406.5 201.063 406.5 256c0 4.656-.293 9.094-.871 13.242l-48.067 31.535C350.123 291.56 338.844 286 326.5 286h-20v-11.719c11.64-4.129 20-15.246 20-28.281 0-16.543-13.457-30-30-30-5.512 0-10-4.484-10-10s4.488-10 10-10c3.543 0 7.281 1.809 10.816 5.227 3.97 3.84 10.301 3.734 14.141-.23 3.84-3.97 3.734-10.302-.234-14.142-5.075-4.914-10.153-7.69-14.723-9.207V166c0-5.523-4.477-10-10-10s-10 4.477-10 10v11.719c-11.637 4.129-20 15.246-20 28.281 0 16.543 13.457 30 30 30 5.516 0 10 4.484 10 10s-4.484 10-10 10c-4.273 0-8.883-2.688-12.984-7.566-3.555-4.227-9.864-4.774-14.09-1.22-4.227 3.556-4.774 9.864-1.219 14.09 5.344 6.36 11.633 10.79 18.293 13.024V286h-3.328c-4.914 0-7.121-3.203-10.582-5.441-21.13-15.836-47.3-24.559-73.7-24.559-4.128 0-8.265.215-12.382.633 0-.211-.008-.418-.008-.633 0-54.168 37.258-111.668 83.05-128.184zM131.189 301.441C149.977 284.988 174.12 276 198.89 276c22.101 0 44.011 7.3 61.691 20.555 2.55 1.492 9.652 9.445 22.586 9.445H326.5c11.383 0 20 9.254 20 20 0 11.027-8.973 20-20 20h-70c-5.523 0-10 4.477-10 10s4.477 10 10 10h70c22.055 0 40-17.945 40-40 0-2.293-.203-4.555-.586-6.781l98.2-64.43a18.573 18.573 0 0 1 15.558-1.86 18.562 18.562 0 0 1 11.492 10.778c2.887 7.203 1.074 15.27-4.644 20.578L365.207 397.98a29.917 29.917 0 0 1-20.418 8.02H180.641l-78.84-78.844zm-54.688 28.7L182.36 436l-51.86 51.86L24.64 382zm0 0" fill="#04c600" opacity="1" data-original="#000000" class=""></path>
-                                        </g>
-                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" x="0" y="0" viewBox="0 0 24 24" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><path d="M12 6a3 3 0 0 0-3 3v12a3 3 0 0 0 6 0V9a3 3 0 0 0-3-3ZM21 0a3 3 0 0 0-3 3v18a3 3 0 0 0 6 0V3a3 3 0 0 0-3-3ZM3 12a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0v-6a3 3 0 0 0-3-3Z" fill="#04c600" opacity="1" data-original="#000000" class=""></path></g></svg>
                                 </div>
                                 <div class="feature__text">
-                                    <h5>Huge Cost Saving</h5>
+                                    <h5>Board strength</h5>
                                     {{-- <span>Installed Capacity</span> --}}
                                 </div>
                             </div>
                             <div class="about__feature--item">
                                 <div class="feature__icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" x="0" y="0" viewBox="0 0 60 60" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
-                                        <g>
-                                            <path d="M30 0a30 30 0 1 0 30 30A30.034 30.034 0 0 0 30 0zm0 58a28 28 0 1 1 28-28 28.032 28.032 0 0 1-28 28z" fill="#04c600" opacity="1" data-original="#000000" class=""></path>
-                                            <path d="M47.529 13.877 29.294 32.112 13.878 47.528a2.014 2.014 0 0 0-.587 1.546 1.969 1.969 0 0 0 .752 1.435A25.917 25.917 0 0 0 30.026 56c.712 0 1.428-.029 2.144-.087a25.982 25.982 0 0 0 18.339-41.87 1.969 1.969 0 0 0-1.435-.752 2.044 2.044 0 0 0-1.545.586zM24.006 42.111A1 1 0 0 0 25 43a1.065 1.065 0 0 0 .112-.006 1 1 0 0 0 .883-1.1l-.367-3.29L29 35.223V42a1 1 0 0 0 2 0v-8.779l4.463-4.467-1.457 13.136a1 1 0 0 0 .884 1.1A1.046 1.046 0 0 0 35 43a1 1 0 0 0 .993-.89l1.733-15.622 3.75-3.753L38.37 45.27A2.015 2.015 0 0 1 36.39 47H23.61a2.015 2.015 0 0 1-1.98-1.726l-.323-2.352 2.509-2.511zm29.912-10.1a24.141 24.141 0 0 1-21.91 21.909 23.885 23.885 0 0 1-16.717-4.975l4.242-4.245.116.853A4.026 4.026 0 0 0 23.61 49h12.78a4.026 4.026 0 0 0 3.961-3.453l3.467-25.155 5.115-5.119a23.962 23.962 0 0 1 4.985 16.736zM30.708 27.885l15.414-15.413a2.014 2.014 0 0 0 .587-1.546 1.969 1.969 0 0 0-.752-1.435A25.982 25.982 0 0 0 9.491 45.957a1.969 1.969 0 0 0 1.435.752h.122a2.013 2.013 0 0 0 1.423-.59l18.235-18.231zM30 23a1 1 0 0 0-1 1v2.779L24.785 31l-.791-7.107a1.012 1.012 0 0 0-1.1-.884 1 1 0 0 0-.884 1.1l.968 8.7-2.69 2.691L18.147 20h17.626L31 24.777V24a1 1 0 0 0-1-1zm5-10H25v-1a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1zm5.769 2-3 3H17v-2a1 1 0 0 1 1-1zm-29.7 29.727A23.983 23.983 0 0 1 27.991 6.082Q28.984 6 29.973 6a23.958 23.958 0 0 1 14.74 5.046v.009l-2.028 2.029A2.968 2.968 0 0 0 42 13h-5v-1a3 3 0 0 0-3-3h-8a3 3 0 0 0-3 3v1h-5a3 3 0 0 0-3 3v2a2 2 0 0 0 1.1 1.775l2.417 17.5z" fill="#04c600" opacity="1" data-original="#000000" class=""></path>
-                                        </g>
-                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" x="0" y="0" viewBox="0 0 24 24" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><path d="M11.001 13h3.535l8.732-8.731a2.503 2.503 0 0 0 0-3.536 2.502 2.502 0 0 0-3.536 0l-8.731 8.732V13ZM20.44 1.439a1.503 1.503 0 0 1 2.122 0 1.502 1.502 0 0 1 0 2.122L21.313 4.81l-2.122-2.122 1.249-1.249Zm-8.438 8.439 6.483-6.483 2.122 2.122L14.124 12h-2.121V9.879Zm8.75 4.204 2.924 1.655-2.464 4.351-2.927-1.657a8.948 8.948 0 0 1-3.783 2.207v3.361h-5v-3.361a8.956 8.956 0 0 1-3.784-2.207l-2.926 1.657-2.465-4.35 2.924-1.656c-.165-.692-.249-1.392-.249-2.082s.084-1.39.249-2.081L.327 8.263l2.465-4.351 2.926 1.657a8.952 8.952 0 0 1 3.784-2.207V0h5v3.137l-1 1V1h-3v3.141l-.383.093A7.966 7.966 0 0 0 6.17 6.536l-.269.287-2.732-1.547-1.479 2.61 2.729 1.546-.106.378c-.207.728-.312 1.465-.312 2.19s.104 1.463.312 2.191l.106.378-2.729 1.546 1.479 2.61 2.732-1.548.27.287a7.954 7.954 0 0 0 3.948 2.303l.383.093V23h3v-3.14l.383-.093a7.948 7.948 0 0 0 3.947-2.303l.27-.287 2.733 1.548 1.478-2.61-2.73-1.546.108-.378a8.001 8.001 0 0 0 .311-2.19V12c0-.49-.065-.984-.16-1.477l.842-.842.067.237c.166.691.25 1.39.25 2.082 0 .691-.084 1.391-.25 2.083ZM11.305 7.07 9.002 9.373l.003.004a3.965 3.965 0 0 0-1.003 2.622c0 2.206 1.794 4 4 4 1.197 0 2.26-.539 2.994-1.374h.006l1.93-1.929c-.343 2.425-2.411 4.303-4.93 4.303-2.757 0-5-2.243-5-5 0-2.518 1.878-4.587 4.303-4.93Z" fill="#04c600" opacity="1" data-original="#000000" class=""></path></g></svg>
                                 </div>
                                 <div class="feature__text">
-                                    <h5>Lesser Wastage</h5>
+                                    <h5>Customised Products</h5>
+                                    {{-- <span>Save World</span> --}}
+                                </div>
+                                {{-- <div class="feature__icon text-right">
+                                    <img src="assets/images/about/icon/09.svg" alt="">
+                                </div> --}}
+                            </div>
+                            
+                            <div class="about__feature--item">
+                                <div class="feature__icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" x="0" y="0" viewBox="0 0 24 24" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><path d="M24 6v12.231a3 3 0 0 1-.772 2.01L19.837 24h-2.693l4.599-5.098c.166-.185.258-.423.258-.671V6a1.001 1.001 0 0 0-2 0v8h-.005a2.98 2.98 0 0 1-.696 1.922l-2.578 2.685-1.441-1.387 2.533-2.634a.893.893 0 0 0 .192-.586h-.004v-.074a1.026 1.026 0 0 0-.255-.594.99.99 0 0 0-.687-.33.97.97 0 0 0-.72.253l-2.908 2.675c.366.507.569 1.123.569 1.756V24h-2v-6.314c0-.279-.117-.547-.322-.736l-4.026-3.705a.971.971 0 0 0-.71-.244.99.99 0 0 0-.687.33 1 1 0 0 0-.022 1.305l2.571 2.67-1.441 1.387-2.616-2.721a3.094 3.094 0 0 1-.735-1.973h-.011V6a1.001 1.001 0 0 0-2 0v12.231c0 .248.092.486.258.671L6.859 24H4.166L.775 20.241a3 3 0 0 1-.772-2.01V6c0-1.654 1.346-3 3-3s3 1.346 3 3v5.17a2.998 2.998 0 0 1 2.995.595l3.005 2.765 2.995-2.756a2.996 2.996 0 0 1 3.005-.604V6c0-1.654 1.346-3 3-3s3 1.346 3 3ZM12 9.914 7.086 5 12 .086 16.914 5 12 9.914ZM9.914 5 12 7.086 14.086 5 12 2.914 9.914 5Z" fill="#04c600" opacity="1" data-original="#000000" class=""></path></g></svg>
+                                </div>
+                                <div class="feature__text">
+                                    <h5>Value added plasters</h5>
                                     {{-- <span>Save World</span> --}}
                                 </div>
                                 {{-- <div class="feature__icon text-right">
@@ -182,6 +193,9 @@
 </div>
 
 
+
+
+
 <div class="container">
     <div class="row">
         <div class="col-4">
@@ -197,6 +211,309 @@
         </div>
     </div>
 </div>
+
+
+
+
+
+<div class="rts-about-area m-3">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-5 mr-3">
+                <!-- about inner solar energy -->
+               
+                        {{-- <img src="http://127.0.0.1:8000/assets/images/italia/chart.svg" alt="solar energy"> --}}
+                        <img src="assets/images/italia/italia-offers.svg" alt="" srcset="">
+                 
+                <!-- about inner solar energy end -->
+            </div>
+            <div class="col-lg-7 mt_md--30 mt_sm--40">
+                <!-- about nrighht content area start -->
+                <div class="about-right-content-area-solar-energy">
+                    <div class="title-area-left">
+                        <p class="pre">
+                            <span>Italia Gypsum</span> Offers
+                        </p>
+
+                       
+
+                            <h2 class="title skew-up" style="opacity: 1;">
+                                <div class="word-line" style="display: block; text-align: left; width: 100%;">
+                                    <div class="word"
+                                        style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                        What
+
+
+
+                                    </div>
+                                    <div class="word"
+                                        style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                        Italia</div>
+                                    <div class="word"
+                                        style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                        Gypsum</div>
+                                    <div class="word"
+                                        style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                        Offers</div>
+                                </div>
+                                <!-- <div class="word-line"
+                                    style="display: block; text-align: left; width: 100%;">
+                                    <div class="word"
+                                        style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                        Save</div>
+                                    <div class="word"
+                                        style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                        The</div>
+                                    <div class="word"
+                                        style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                        Environment</div>
+                                </div> -->
+                            </h2>
+
+
+                        
+                        
+
+                      
+                    </div>
+                    <!-- tab area start about -->
+                    <ul class="nav custom-nav-soalr-about nav-pills" id="pills-tab" role="tablist">
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home"
+                                aria-selected="true">Unmatched
+                                Quality</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-profile" type="button" role="tab"
+                                aria-controls="pills-profile" aria-selected="false">
+                                Green products</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link " id="pills-contact-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-contact" type="button" role="tab"
+                                aria-controls="pills-contact" aria-selected="false"> DIFOT experts
+                            </button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link " id="pills-4-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-4" type="button" role="tab" aria-controls="pills-4"
+                                aria-selected="false">Step by Step guidance
+
+                            </button>
+                        </li>
+
+
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link " id="pills-5-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-5" type="button" role="tab" aria-controls="pills-5"
+                                aria-selected="false">Wide customer base
+
+
+                            </button>
+                        </li>
+                    </ul>
+
+                    <!-- nav content start -->
+                    <div class="tab-content" id="pills-tabContent">
+                        <div class="tab-pane fade  active show" id="pills-home" role="tabpanel"
+                            aria-labelledby="pills-home-tab">
+                            <!-- single nav content start -->
+                            <div class="single-about-content-solar">
+
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <div class="left-area-wrapper">
+                                                <img src="assets/images/italia/about/uq.svg" alt="about">
+                                            </div>
+                                        </div>
+                                        <div class="col-8">
+                                            <p class="disc">
+                                                With state of art manufacturing facilitates and best in
+                                                class
+                                                testing laboratory we ensure consistent product quality
+                                                to satisfy
+                                                the customer requirements. Also, through continuous
+                                                customer
+                                                interaction, we are updating ourselves day by day.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                            </div>
+                            <!-- single nav content end -->
+                        </div>
+                        <div class="tab-pane fade" id="pills-profile" role="tabpanel"
+                            aria-labelledby="pills-profile-tab">
+                            <!-- single nav content start -->
+                            <div class="single-about-content-solar">
+                                {{-- <p class="disc">
+                                    Ontes mauris eget aliquet fermentum venenatis taciti tempus dignssim
+                                    mollis pharetra class habitant congue pulvinar rhoncus proin
+                                    bibendum torquent life ultrices penatibus feugiat phasellus.
+                                </p> --}}
+                                <div class="row align-items-center">
+                                    <div class="col-lg-4">
+                                        <div class="left-area-wrapper">
+                                            <img src="assets/images/italia/about/gp.svg" alt="about">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-8">
+                                        <!-- about ncheck wrapper main -->
+                                        <div class="single-ckeck-wrapper">
+                                            <img src="assets/images/about/dt.png" alt="dotted">
+                                            <p>100% natural gypsum based products</p>
+                                        </div>
+                                        <!-- about ncheck wrapper main end -->
+                                        <!-- about ncheck wrapper main -->
+                                        <div class="single-ckeck-wrapper">
+                                            <img src="assets/images/about/dt.png" alt="dotted">
+                                            <p>Completely recyclable</p>
+                                        </div>
+                                        <!-- about ncheck wrapper main end -->
+                                        <!-- about ncheck wrapper main -->
+                                        <div class="single-ckeck-wrapper">
+                                            <img src="assets/images/about/dt.png" alt="dotted">
+                                            <p>Our products environmental friendly</p>
+                                        </div>
+                                        <!-- about ncheck wrapper main end -->
+                                        <!-- about ncheck wrapper main -->
+                                        <div class="single-ckeck-wrapper">
+                                            <img src="assets/images/about/dt.png" alt="dotted">
+                                            <p>No harmful ingredients
+                                            </p>
+                                        </div>
+                                        <!-- about ncheck wrapper main end -->
+                                    </div>
+                                </div>
+                                <!-- vedio area start -->
+
+                                <!-- vedio area end -->
+                            </div>
+                            <!-- single nav content end -->
+                        </div>
+                        <div class="tab-pane fade" id="pills-contact" role="tabpanel"
+                            aria-labelledby="pills-contact-tab">
+                            <!-- single nav content start -->
+                            <div class="single-about-content-solar">
+
+                                <div class="row align-items-center">
+                                    <div class="col-lg-4">
+                                        <div class="left-area-wrapper">
+                                            <img src="assets/images/italia/about/difot.svg" alt="about">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-8">
+                                        <!-- about ncheck wrapper main -->
+                                        <p class="disc">
+                                            Wondering what DIFOT is? Delivery In Full On Time. Through
+                                            our uninterrupted and super connected supply chain network,
+                                            our extensive product range will reach near to you making
+                                            the delivery in a trice.
+                                            We are very much excited to continue working hand by hand
+                                            with our customers to build your future strong. Our experts
+                                            will help you in your need to get the job done right.
+                                        </p>
+                                        <!-- about ncheck wrapper main end -->
+                                    </div>
+                                </div>
+                                <!-- vedio area start -->
+
+                                <!-- vedio area end -->
+                            </div>
+                            <!-- single nav content end -->
+                        </div>
+
+
+                        <div class="tab-pane fade" id="pills-4" role="tabpanel" aria-labelledby="pills-4-tab">
+                            <!-- single nav content start -->
+                            <div class="single-about-content-solar">
+
+                                <div class="row align-items-center">
+                                    <div class="col-lg-4">
+                                        <div class="left-area-wrapper">
+                                            <img src="assets/images/italia/about/st.svg" alt="about">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-8">
+                                        <!-- about ncheck wrapper main -->
+                                        <p class="disc">
+
+                                            Got stuck somewhere? Tired of calculations? We have our
+                                            representatives in your area. Take your phone and give them
+                                            a call. Your solution will be at your door step. Or just
+                                            lodge a query in our website, we will be in touch with you
+                                            within no time.
+
+                                        </p>
+                                        <!-- about ncheck wrapper main end -->
+                                    </div>
+                                </div>
+                                <!-- vedio area start -->
+
+                                <!-- vedio area end -->
+                            </div>
+                            <!-- single nav content end -->
+                        </div>
+
+
+
+                        <div class="tab-pane fade" id="pills-5" role="tabpanel" aria-labelledby="pills-5-tab">
+                            <!-- single nav content start -->
+                            <div class="single-about-content-solar">
+
+                                <div class="row align-items-center">
+                                    <div class="col-lg-4">
+                                        <div class="left-area-wrapper">
+                                            <img src="assets/images/italia/about/wc.svg" alt="about">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-8">
+                                        <!-- about ncheck wrapper main -->
+                                        <p class="disc">
+                                            Not only housing, we also address a wide variety of sectors
+                                            like educational institutions, health care centres, business
+                                            units, office spaces and a lot more. Many of the
+                                            construction sector’s most noted architects, builders,
+                                            contractors, dealers, retailers, pmcs trust our products,
+                                            services and technical knowledge to give their business a
+                                            competitive edge. Now you are in the list.
+                                        </p>
+                                        <!-- about ncheck wrapper main end -->
+                                    </div>
+                                </div>
+                                <!-- vedio area start -->
+
+                                <!-- vedio area end -->
+                            </div>
+                            <!-- single nav content end -->
+                        </div>
+
+
+
+                    </div>
+                    <!-- nav content end -->
+                    <!-- tab area start about end -->
+
+                </div>
+                <!-- about nrighht content area end -->
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
 
 
 

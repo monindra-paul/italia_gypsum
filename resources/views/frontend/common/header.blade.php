@@ -21,13 +21,13 @@
                             </div>
                             <div class="right">
                                 <div class="social-header-top-h2">
-                                    <span>Visit Us:</span>
-                                    <ul>
+                                   <a href=""> <span>RESOURCES</span></a>
+                                    {{-- <ul>
                                         <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    </ul>
+                                    </ul> --}}
                                 </div>
                             </div>
                         </div>
@@ -73,27 +73,28 @@
                                                     <a href="javascript:void(0);">PLASTER BOARDS</a>
                                                     <ul class="submenu third-lvl base">
 
-                                                        <li><a class="mobile-menu-link" href="{{route('product.universalPlaster')}}">UNIVERSAL</a></li>
-                                                        <li><a class="mobile-menu-link" href="{{route('product.agniPlaster')}}">AGNI</a></li>
-                                                        <li><a class="mobile-menu-link" href="{{route('product.aquaPlaster')}}">AQUA</a></li>
-                                                        <li><a class="mobile-menu-link" href="{{route('product.agniaquaPlaster')}}">AGNI - AQUA</a></li>
+                                                        <li><a class="mobile-menu-link" href="{{route('product.universalPlaster')}}">REGULAR</a></li>
+                                                        <li><a class="mobile-menu-link" href="{{route('product.agniPlaster')}}">FIRE</a></li>
+                                                        <li><a class="mobile-menu-link" href="{{route('product.aquaPlaster')}}">MOISTURE</a></li>
+                                                        <li><a class="mobile-menu-link" href="{{route('product.agniaquaPlaster')}}">FR - MR</a></li>
+                                                        <li><a class="mobile-menu-link" href="{{route('product.agniaquaPlaster')}}">GLASS MAT</a></li>
                                                         
                                                     </ul>
                                                 </li>
-                                                <li class="sub-dropdown">
-                                                    <a href="javascript:void(0);">PLASTER</a>
-                                                    <ul class="submenu third-lvl base">
-                                                        <li><a class="mobile-menu-link" href="#">DRIZZLE</a></li>
+                                                <li class="#">
+                                                    <a href="javascript:void(0);">PLASTERS</a>
+                                                    {{-- <ul class="submenu third-lvl base">
+                                                        <li><a class="mobile-menu-link" href="#">WHY PLASTER</a></li>
                                                         <li><a class="mobile-menu-link" href="#">VINTAGE</a></li>
                                                         <li><a class="mobile-menu-link" href="#">AMAZE</a></li>
                                                         <li><a class="mobile-menu-link" href="#">STUCCO COAT</a></li>
                                                         <li><a class="mobile-menu-link" href="#">ELEGANT</a></li>
                                                         <li><a class="mobile-menu-link" href="#">MACHINE PLASTER</a></li>
-                                                    </ul>
+                                                    </ul> --}}
                                                 </li>
 
                                                 <li class="#">
-                                                    <a href="javascript:void(0);">JOINTING COMPOUND</a>                                                    
+                                                    <a href="{{route('product.jointComp')}}">JOINTING COMPOUND</a>                                                    
                                                 </li>
                                                 
                                                 <li class="#">
@@ -109,7 +110,7 @@
                                             </ul>
                                         </li>
                                         <li class="">
-                                            <a class="nav-link" href="#">RESOURCES</a>
+                                            <a class="nav-link" href="#">PROJECTS</a>
 
                                         </li>
                                         <li><a class="nav-link" href="#">GALLERY</a></li>

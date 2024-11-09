@@ -12,11 +12,7 @@
 <div class="personal-info-area-start rts-section-gapTop pb--100">
     <div class="container">
         <div class="row g-0 align-items-center">
-            <div class="col-lg-5">
-                <div class="thumbnail m-img">
-                    <img src="assets/images/italia/agniaquamain.webp" alt="team-image">
-                </div>
-            </div>
+
             <div class="col-lg-7">
                 <div class="personal-info-team">
                     <div class="inner-content sal-animate" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
@@ -91,6 +87,12 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-5">
+                <div class="thumbnail m-img">
+                    <img src="assets/images/italia/agniaquamain.webp" alt="team-image">
+                </div>
+            </div>
+           
         </div>
     </div>
 </div>

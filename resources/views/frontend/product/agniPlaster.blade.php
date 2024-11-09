@@ -12,20 +12,16 @@
 <div class="personal-info-area-start rts-section-gapTop pb--100">
     <div class="container">
         <div class="row g-0 align-items-center">
-            <div class="col-lg-5">
-                <div class="thumbnail m-img">
-                    <img src="assets/images/italia/agni-plaster.webp" alt="team-image">
-                </div>
-            </div>
+
             <div class="col-lg-7">
                 <div class="personal-info-team">
                     <div class="inner-content sal-animate" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
                         <span class="pre-title">
                            Plaster Boards
                         </span>
-                        <h3 class="title animated fadeIn">Agni - Fire Resistant Plaster Boards</h3>
+                        <h3 class="title animated fadeIn">Fire Resistant Plaster Boards</h3>
                         <p class="disc">
-                            Agni boards are more fire resistant because of certain special additives which are formulated specifically to hold our boards longer to fire exposure thereby protecting your lives and valuables.
+                            Fire Plaster Boards are more fire resistant because of certain special additives which are formulated specifically to hold our boards longer to fire exposure thereby protecting your lives and valuables.
 
 
                         </p>
@@ -38,55 +34,121 @@
                             <table class="table table-hover">
                                 <thead>
                                   <tr>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;" scope="col">Dimensions	</th>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">Standard	</th>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">On request
+                                    <th style="background-color: rgb(0, 4, 79); color:white;" scope="col">Properties (per 12.5 mm)	</th>
+                                    <th class="pl-2" style="background-color: rgb(0, 4, 79); color:white;"  scope="col">ASTM 1396:2006 Specification</th>
+                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">Italia Gypsum Specification
                                     </th>
                                   </tr>
                                 </thead>
                                 <tbody>
                                   <tr>
-                                    <td>Length</td>
-                                    <td>1830	</td>
-                                    <td>1800-3600
+                                    <td>Type</td>
+                                    <td>F	</td>
+                                    <td>F
                                     </td>
                                   </tr>
                                   <tr>
-                                    <td>Width	</td>
-                                    <td>1220</td>
-                                    <td>1200</td>
+                                    <td>Flexural Strength (N) Longitudinal</td>
+                                    <td>476	</td>
+                                    <td> > 650
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td>Flexural Strength (N) Transverse	</td>
+                                    <td>160</td>
+                                    <td>> 330</td>
                                   </tr>
                                   <tr>
                                     
                                    
-                                    <td>Thickness	</td>
-                                    <td>12.5		</td>
-                                    <td>9.5,12,15,18
+                                    <td>Nail Pull Resistance	</td>
+                                    <td>343		</td>
+                                    <td>370
+                                    </td>
+                                  </tr>
+                                <tr>
+                                    
+                                   
+                                    <td>Core Hardness		</td>
+                                    <td>> 49</td>
+                                    <td>> 70
+                                    </td>
+                                  </tr>
+                                <tr>
+                                    
+                                   
+                                    <td>Edge Hardness	</td>
+                                    <td>	> 49	</td>
+                                    <td>	> 70	</td>
+                                   
+                                  </tr>
+                                  
+                                  <tr>
+                                    
+                                   
+                                    <td>Thickness (mm)</td>
+                                    <td>	&#x2213 0.40	</td>
+                                    <td>	&#x2213 0.20	</td>
+                                   
+                                  </tr>
+                                  <tr>
+                                    
+                                   
+                                    <td>Board length (mm)</td>
+                                    <td>	&#x2213 6.00	</td>
+                                    <td>	0, - 2.0 mm	</td>
+                                   
+                                  </tr>
 
-                                    </td>
-                                  </tr>
-                                <tr>
+                                  <tr>
                                     
                                    
-                                    <td>Edge profile		</td>
-                                    <td>Tapered		</td>
-                                    <td>Squared, Bevelled, Round
-                                    </td>
+                                    <td>Board Width (mm)</td>
+                                    <td>	- 3.00	</td>
+                                    <td>	0, - 2.0 	</td>
+                                   
                                   </tr>
-                                <tr>
+                                  <tr>
                                     
                                    
-                                    <td>Appearance	</td>
-                                    <td>	Face: Pink, Back: Grey		</td>
+                                    <td>End Squareness (mm)</td>
+                                    <td>	&#x2213 3.20	</td>
+                                    <td>	&#x2213 2.00	</td>
                                    
                                   </tr>
+                                  <tr>
+                                    
+                                   
+                                    <td>Weight (kg/m <sup>2</sup> )</td>
+                                    <td>	-	</td>
+                                    <td>	9.00 &#x2213 2.00	</td>
+                                   
+                                  </tr>
+                                  <tr>
+                                    
+                                   
+                                    <td>Humidified Deflection</td>
+                                    <td>	32 mm	</td>
+                                    <td>	32 mm	</td>
+                                   
+                                  </tr>
+                                 
                                 </tbody>
-                              </table>
+                            </table>
                         </div>
                         <!-- ingle information end -->
                     </div>
                 </div>
             </div>
+            <div class="col-lg-5">
+                <div class="thumbnail m-img">
+                    <img src="assets/images/italia/fr.png" alt="team-image">
+                </div>
+             <div class="thumbnail m-img">
+                    <img src="assets/images/italia/fr-usea.webp" alt="team-image" style="border-radius: 10px">
+                </div>
+            </div>
+           
         </div>
     </div>
 </div>
