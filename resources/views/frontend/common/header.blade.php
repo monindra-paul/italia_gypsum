@@ -77,12 +77,12 @@
                                                         <li><a class="mobile-menu-link" href="{{route('product.agniPlaster')}}">FIRE</a></li>
                                                         <li><a class="mobile-menu-link" href="{{route('product.aquaPlaster')}}">MOISTURE</a></li>
                                                         <li><a class="mobile-menu-link" href="{{route('product.agniaquaPlaster')}}">FR - MR</a></li>
-                                                        <li><a class="mobile-menu-link" href="{{route('product.agniaquaPlaster')}}">GLASS MAT</a></li>
+                                                        <li><a class="mobile-menu-link" href="{{route('product.glassmat')}}">GLASS MAT</a></li>
                                                         
                                                     </ul>
                                                 </li>
                                                 <li class="#">
-                                                    <a href="javascript:void(0);">PLASTERS</a>
+                                                    <a href="{{route('plaster')}}">PLASTERS</a>
                                                     {{-- <ul class="submenu third-lvl base">
                                                         <li><a class="mobile-menu-link" href="#">WHY PLASTER</a></li>
                                                         <li><a class="mobile-menu-link" href="#">VINTAGE</a></li>

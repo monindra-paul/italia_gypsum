@@ -1,13 +1,70 @@
 @extends('frontend.layout.app')
 @section('content')
 
+
+<div class="rts-bread-crumb-area bg_image bg-breadcrumb-plasters">
+    <div class="container ptb--65">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="con-tent-main">
+                    <div class="wrapper">
+                        <span class="bg-text-stok">Plaster</span>
+                        <div class="title skew-up">
+                            <a href="#">Plaster</a>
+                        </div>
+                        <div class="slug skew-up">
+                            <a href="{{url('/')}}">HOME /</a>
+                            <a class="active" href="#">PLASTER</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- rts breadcrumb area end -->
+<!-- header style two End -->
+
+<div class="container mt-4">
+    <div class="row g-5 mb--50">
+        <div class="col-lg-12">
+            <div class="section__title">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="title-area-center">
+                                <p class="pre skew-up">
+                                    <span> Why</span> Gypsum
+                                </p>
+                                <h2 class="title skew-up">
+                                    Difference Between <br> Sand Plaster & Gypsum Plaster
+                                </h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <img src="assets/images/italia/plaster-vs.png" alt="" srcset="">
+        </div>
+    </div>
+</div>
+
+{{-- 
+
 <div class="container mt-4 pt-4">
     <div class="row">
         <div class="text-center">
             <img src="assets/images/italia/plaster-boards.png" alt="" srcset="" width="40%">
         </div>
     </div>
-</div>
+</div> --}}
 
 <div class="personal-info-area-start rts-section-gapTop pb--100">
     <div class="container">

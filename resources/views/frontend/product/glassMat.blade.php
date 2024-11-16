@@ -1,29 +1,61 @@
 @extends('frontend.layout.app')
 @section('content')
 
+
+
+
+<div class="rts-bread-crumb-area bg_image bg-breadcrumb-plasters">
+    <div class="container ptb--65">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="con-tent-main">
+                    <div class="wrapper">
+                        <div class="text-center">
+                            <img src="assets/images/italia/plaster-boards.png" alt="" srcset="" >
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- rts breadcrumb area end -->
+<!-- header style two End -->
+
+
+
+
+{{-- 
+
 <div class="container mt-4 pt-4">
     <div class="row">
         <div class="text-center">
             <img src="assets/images/italia/plaster-boards.png" alt="" srcset="" width="40%">
         </div>
     </div>
-</div>
+</div> --}}
 
 <div class="personal-info-area-start rts-section-gapTop pb--100">
     <div class="container">
         <div class="row g-0 align-items-center">
-
+            <div class="col-lg-5">
+                <div class="thumbnail m-img">
+                    <img src="assets/images/italia/glass-mat.png" alt="team-image">
+                </div>
+            <div class="thumbnail m-img">
+                    <img src="assets/images/italia/glass-mat-use.webp" alt="team-image" style="border-radius:10px">
+                </div>
+            </div>
             <div class="col-lg-7">
                 <div class="personal-info-team">
                     <div class="inner-content sal-animate" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
                         <span class="pre-title">
                            Plaster Boards
                         </span>
-                        <h3 class="title animated fadeIn"> Fire & Moisture Resistant Plaster Board
-                            </h3>
+                        <h3 class="title animated fadeIn">Glass Mat
+                            Plaster Boards</h3>
                         <p class="disc">
-                            Fire & Moisture Resistant Plaster Board are specially designed to give your home the best of its durability with multiperformance of superior quality, smooth finish, higher strength, fire resistance and lesser water absorption.
-
+                            Glass Mat Plasterboard is suitable for hybrid construction in multi-storeyed buildings.Italia Gypsum Glass MAT Plasterboards are used in both exterior and interior use.
 
 
 
@@ -37,139 +69,55 @@
                             <table class="table table-hover">
                                 <thead>
                                   <tr>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;" scope="col">Properties (per 12.5 mm)	</th>
-                                    <th class="pl-2" style="background-color: rgb(0, 4, 79); color:white;"  scope="col">ASTM 1396:2006 Specification</th>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">Italia Gypsum Specification
+                                    <th style="background-color: rgb(0, 4, 79); color:white;" scope="col">Dimensions	</th>
+                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">Standard	</th>
+                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">On request
                                     </th>
                                   </tr>
                                 </thead>
                                 <tbody>
                                   <tr>
-                                    <td>Type</td>
-                                    <td>F/H	</td>
-                                    <td>F/H
+                                    <td>Length</td>
+                                    <td>1830	</td>
+                                    <td>1800-3600
                                     </td>
                                   </tr>
                                   <tr>
-                                    <td>Flexural Strength (N) Longitudinal</td>
-                                    <td>476	</td>
-                                    <td> > 570
-                                    </td>
-                                  </tr>
-                                  <tr>
-                                    <td>Flexural Strength (N) Transverse	</td>
-                                    <td>160</td>
-                                    <td>>  240</td>
+                                    <td>Width	</td>
+                                    <td>1220</td>
+                                    <td>1200</td>
                                   </tr>
                                   <tr>
                                     
                                    
-                                    <td>Nail Pull Resistance	</td>
-                                    <td>343		</td>
-                                    <td>360
+                                    <td>Thickness	</td>
+                                    <td>12.5		</td>
+                                    <td>9.5,12,15,18
+
                                     </td>
                                   </tr>
                                 <tr>
                                     
                                    
-                                    <td>Core Hardness		</td>
-                                    <td>> 49</td>
-                                    <td>> 70
+                                    <td>Edge profile		</td>
+                                    <td>Tapered		</td>
+                                    <td>Squared, Bevelled, Round
                                     </td>
                                   </tr>
                                 <tr>
                                     
                                    
-                                    <td>Edge Hardness	</td>
-                                    <td>	> 49	</td>
-                                    <td>	> 60	</td>
+                                    <td>Appearance	</td>
+                                    <td>	Face: Blue, Back: Grey</td>
                                    
                                   </tr>
-                                  
-                                  <tr>
-                                    
-                                   
-                                    <td>Thickness (mm)</td>
-                                    <td>	&#x2213 0.40	</td>
-                                    <td>	&#x2213 0.20	</td>
-                                   
-                                  </tr>
-                                  <tr>
-                                    
-                                   
-                                    <td>Board length (mm)</td>
-                                    <td>	&#x2213 6.00	</td>
-                                    <td>	0, - 2.0 mm	</td>
-                                   
-                                  </tr>
-
-                                  <tr>
-                                    
-                                   
-                                    <td>Board Width (mm)</td>
-                                    <td>0,	- 3.00	</td>
-                                    <td>	0, - 2.0 mm	</td>
-                                   
-                                  </tr>
-                                  <tr>
-                                    
-                                   
-                                    <td>End Squareness (mm)</td>
-                                    <td>	&#x2213 3.20	</td>
-                                    <td>	&#x2213 2.00	</td>
-                                   
-                                  </tr>
-                                  <tr>
-                                    
-                                   
-                                    <td>Weight (kg/m <sup>2</sup> )</td>
-                                    <td>	-	</td>
-                                    <td>	8.00 &#x2213 2.00	</td>
-                                   
-                                  </tr>
-
-                                  <tr>
-                                    
-                                   
-                                    <td>Water Absorption</td>
-                                    <td>	< 5%	</td>
-                                    <td>	Below 10%	</td>
-                                   
-                                  </tr>
-                                  <tr>
-                                    
-                                   
-                                    <td>Surface Water Absorption</td>
-                                    <td>	1.6 gms	</td>
-                                    <td>	9.00 &#x2213 0.20	</td>
-                                   
-                                  </tr>
-
-                                  <tr>
-                                    
-                                   
-                                    <td>Humidified Deflection</td>
-                                    <td>	32 mm	</td>
-                                    <td>	32 mm	</td>
-                                   
-                                  </tr>
-                                 
                                 </tbody>
-                            </table>
+                              </table>
                         </div>
                         <!-- ingle information end -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-5">
-                <div class="thumbnail m-img">
-                    <img src="assets/images/italia/fr-mr.png" alt="team-image">
-                </div>
-                <div class="thumbnail m-img">
-                    <img src="assets/images/italia/fr-mr-use.webp" alt="team-image" style="border-radius: 10px">
-                </div>
-            </div>
-           
         </div>
     </div>
 </div>
@@ -189,24 +137,26 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                  Designed for 
+                                  Easy to Install
+
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample" style="">
                                 <div class="accordion-body">
-                                    Specially designed to give your home the best of Agni and Aqua.
+                                    Easy to install, provide great strength, smooth finish with perfect dimensions.
+
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                   Protect Building
+                                    Ideal for
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample" style="">
                                 <div class="accordion-body">
-                                    Protect your buildings from fire and high humidity.
+                                    Ideal for kitchen areas.
                                 </div>
                             </div>
                         </div>
@@ -235,7 +185,7 @@
                             </div>
                         </div> 
                         
-                        {{-- <div class="accordion-item">
+                        <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFive">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
                                     Water Absorption Special Features
@@ -272,7 +222,7 @@
 
                                 </div>
                             </div>
-                        </div> --}}
+                        </div>
                     </div>
                 </div>
             </div>
@@ -295,7 +245,7 @@
                         </div>
                     </div> --}}
                     <div class="thumbnail-large-bottom">
-                        <img src="assets/images/italia/agnuaquause.webp" alt="solar">
+                        <img src="assets/images/italia/aqua-use.webp" alt="solar">
                     </div>
                 </div>
             </div>

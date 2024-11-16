@@ -1,7 +1,7 @@
 @extends('frontend.layout.app')
 @section('content')
 
-<div class="rts-bread-crumb-area bg_image bg-breadcrumb">
+<div class="rts-bread-crumb-area bg_image bg-breadcrumb ">
     <div class="container ptb--65">
         <div class="row">
             <div class="col-lg-12">

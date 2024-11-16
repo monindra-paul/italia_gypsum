@@ -250,7 +250,7 @@
                         </div>
                     </div> --}}
                     <div class="thumbnail-large-bottom">
-                        <img src="assets/images/italia/agniuse.webp" alt="solar">
+                        <img src="assets/images/italia/fire-info.png" alt="solar">
                     </div>
                 </div>
             </div>

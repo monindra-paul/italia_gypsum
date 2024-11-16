@@ -25,8 +25,8 @@ Route::get('/plaster', [ProductController::class, 'plaster'])->name('plaster');
 Route::get('/regular-plaster-board', [ProductController::class, 'universalPlaster'])->name('product.universalPlaster');
 Route::get('/fire-plaster-board', [ProductController::class, 'agniPlaster'])->name('product.agniPlaster');
 Route::get('/moisture-plaster-board', [ProductController::class, 'aquaPlaster'])->name('product.aquaPlaster');
-Route::get('/agni-aqua-plaster', [ProductController::class, 'agniaquaPlaster'])->name('product.agniaquaPlaster');
-
+Route::get('/fire-moisture-plaster-board', [ProductController::class, 'agniaquaPlaster'])->name('product.agniaquaPlaster');
+Route::get('/glass-mat', [ProductController::class, 'glassMat'])->name('product.glassmat');
 
 
 Route::get('/jointing-compound', [ProductController::class, 'jointingComp'])->name('product.jointComp');
