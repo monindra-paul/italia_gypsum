@@ -21,7 +21,7 @@
                             </div>
                             <div class="right">
                                 <div class="social-header-top-h2">
-                                   <a href=""> <span>RESOURCES</span></a>
+                                   <a href="{{route('resources')}}"> <span>RESOURCES</span></a>
                                     {{-- <ul>
                                         <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>

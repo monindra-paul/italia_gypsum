@@ -21,4 +21,9 @@ class PagesController extends Controller
     {
         return view('frontend.pages.product');
     }
+
+    public function resources()
+    {
+        return view('frontend.pages.resoursec');
+    }
 }
