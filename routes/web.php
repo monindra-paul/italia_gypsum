@@ -19,6 +19,9 @@ Route::get('/about-us', [PagesController::class, 'about'])->name('about');
 Route::get('/why-gypsum', [PagesController::class, 'whygypsum'])->name('whygypsum');
 Route::get('/product', [PagesController::class, 'product'])->name('product');
 Route::get('/resources', [PagesController::class, 'resources'])->name('resources');
+Route::get('/gallery', [PagesController::class, 'gallery'])->name('gallery');
+
+
 
 
 Route::get('/plaster', [ProductController::class, 'plaster'])->name('plaster');
@@ -27,7 +30,7 @@ Route::get('/fire-plaster-board', [ProductController::class, 'agniPlaster'])->na
 Route::get('/moisture-plaster-board', [ProductController::class, 'aquaPlaster'])->name('product.aquaPlaster');
 Route::get('/fire-moisture-plaster-board', [ProductController::class, 'agniaquaPlaster'])->name('product.agniaquaPlaster');
 Route::get('/glass-mat', [ProductController::class, 'glassMat'])->name('product.glassmat');
-
+Route::get('/ceiling-tiles', [ProductController::class, 'ct'])->name('product.ct');
 
 Route::get('/jointing-compound', [ProductController::class, 'jointingComp'])->name('product.jointComp');
 

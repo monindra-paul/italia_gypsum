@@ -42,4 +42,10 @@ class ProductController extends Controller
     {
         return view('frontend.product.plaster');
     }
+
+
+    public function ct()
+    {
+        return view('frontend.product.ct');
+    }
 }

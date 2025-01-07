@@ -824,7 +824,7 @@
             <div class="col-lg-7 mt_sm--40">
                 <div class="map-area-h3">
                     <div class="thumbnail">
-                        <img src="assets/images/italia/chart.svg" alt="">
+                        <img src="assets/images/italia/chart-new.svg" alt="">
                     </div>
                 </div>
             </div>

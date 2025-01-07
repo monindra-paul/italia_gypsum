@@ -94,6 +94,10 @@
                                                 </li>
 
                                                 <li class="#">
+                                                    <a href="{{route('product.ct')}}">CEILING TILES</a>                                                    
+                                                </li> 
+                                                
+                                                <li class="#">
                                                     <a href="{{route('product.jointComp')}}">JOINTING COMPOUND</a>                                                    
                                                 </li>
                                                 
@@ -113,7 +117,7 @@
                                             <a class="nav-link" href="#">PROJECTS</a>
 
                                         </li>
-                                        <li><a class="nav-link" href="#">GALLERY</a></li>
+                                        <li><a class="nav-link" href="{{route('gallery')}}">GALLERY</a></li>
                                         <li><a class="nav-link" href="{{url('/contact-us')}}">CONTACT US</a></li>
                                     </ul>
                                 </nav>
