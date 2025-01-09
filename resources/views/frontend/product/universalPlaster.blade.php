@@ -150,29 +150,81 @@
 </div>
 
 
-
 <div class="faq-section-start-solar">
     <div class="container">
         <div class="row g-24 align-items-start">
             <div class="col-lg-6">
                 <div class="title-area-left">
                     
-                <h2 class="title skew-up" style="opacity: 1;"><div class="word-line" style="display: block; text-align: left; width: 100%;"><div class="word" style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">Some</div> <div class="word" style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">General</div> <div class="word" style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">Features</div></div></h2></div>
+                <h2 class="title skew-up" style="opacity: 1;"><div class="word-line" style="display: block; text-align: left; width: 100%;"><div class="word" style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">Some</div> <div class="word" style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">General</div> <div class="word" style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">Features</div></div></h2>
+            </div>
                 <div class="accordion-solar-faq">
                     <div class="accordion" id="accordionExample">
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                   Fire Resistant Boards Special Features
+                                   Economical
+
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample" style="">
                                 <div class="accordion-body">
-                                    Fire rating of the partition systems can withstand up to 3hours with customised specifications.
+                                    Most common and economical plasterboard.
+
+
                                 </div>
                             </div>
                         </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Ideal for
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample" style="">
+                                <div class="accordion-body">
+                                   Ideal for internal partitions and ceilings.
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    ASTM standards.
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample" style="">
+                                <div class="accordion-body">
+                                    Meets relevant ASTM standards.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFour">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                                    Customizeable
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse show" aria-labelledby="headingFour" data-bs-parent="#accordionExample" style="">
+                                <div class="accordion-body">
+                                    Board length, thickness and edge profile can be customised. <br>You can select board length, thickness and edge profile from our selection chart and we will make it for you.
+                                </div>
+                            </div>
+                        </div> 
                         
+                        {{-- <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFive">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+                                    Fire Resistant Board Special Features
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse show" aria-labelledby="headingFive" data-bs-parent="#accordionExample" style="">
+                                <div class="accordion-body">
+                                    Fire rating of the partition systems can withstand up to 3hours with customised specifications.
+                                </div>
+                            </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
@@ -195,14 +247,14 @@
                         </div>
                     </div> --}}
                     <div class="thumbnail-large-bottom">
-                        <img src="assets/images/italia/uni-pic.webp" alt="solar">
+                        <img src="assets/images/italia/regularinfo.png" alt="solar">
                     </div>
                 </div>
             </div>
         </div>
+
     </div>
 </div>
-
 
 
 

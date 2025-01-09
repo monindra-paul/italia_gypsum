@@ -23738,15 +23738,15 @@ p {
 }
 
 .single-solari-service-start.two {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY40a8uo9pt8VxOMX5qV4wWv_v5zwPNVH8vg&s);
+  background-image: url("/assets/images/italia/cthome.webp");
 }
 
 .single-solari-service-start.three {
-  background-image: url(https://images.jdmagicbox.com/quickquotes/images_main/moisture-resistant-gypsum-board-386639473-75298.jpg);
+  background-image: url("/assets/images/italia/plasters.webp");
 }
 
 .single-solari-service-start.four {
-  background-image: url(https://5.imimg.com/data5/SELLER/Default/2023/9/348950101/VP/DH/ZF/155593629/moisture-resistant-gypsum-board-500x500.jpg);
+  background-image: url("/assets/images/italia/wallputty.webp");
 }
 
 .single-solari-service-start:hover .icon-area {

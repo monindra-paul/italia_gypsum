@@ -213,12 +213,12 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    ASTM, EN and IS standards.
+                                   Premium Engineering
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample" style="">
                                 <div class="accordion-body">
-                                    Meets relevant ASTM, EN and IS standards.
+                                    Premium engineered core for a complete proof.
                                 </div>
                             </div>
                         </div>
@@ -295,7 +295,7 @@
                         </div>
                     </div> --}}
                     <div class="thumbnail-large-bottom">
-                        <img src="assets/images/italia/agnuaquause.webp" alt="solar">
+                        <img src="assets/images/italia/frmrinfo.png" alt="solar">
                     </div>
                 </div>
             </div>

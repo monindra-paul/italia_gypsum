@@ -652,12 +652,12 @@
                             <img src="assets/images/italia/italiyawhite.svg" alt="" srcset="" width="60%">
                         </div>
                         <a href="# ">
-                            <h5 class="title">Universal Regular Board</h5>
+                            <h5 class="title">Gypsum Plaster Board</h5>
                         </a>
                         <p class="disc">
                             Light weight high performance boards ideal for walls and ceilings.
                         </p>
-                        <a href="# " class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
+                        <a href="{{route('product.universalPlaster')}}" class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                     <!-- ignle #height solari end -->
                 </div>
@@ -680,13 +680,13 @@
                             </svg> -->
 
                         </div>
-                        <a href="# ">
-                            <h5 class="title">Fire Resistant Board</h5>
+                        <a href="#">
+                            <h5 class="title">Ceiling Tiles</h5>
                         </a>
                         <p class="disc">
-                            Fire resistant plaster boards.
+                            Manufacturing plant specializing in high-quality ceiling solutions. 
                         </p>
-                        <a href="# " class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
+                        <a href="{{route('product.ct')}}" class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                     <!-- ignle #height solari end -->
                 </div>
@@ -706,12 +706,12 @@
 
                         </div>
                         <a href="# ">
-                            <h5 class="title">Moisture Resistant Board</h5>
+                            <h5 class="title">Italia Gypsum Plasters</h5>
                         </a>
                         <p class="disc">
-                            Moisture resistant boards for wet areas.
+                            Italia Gypsum Plasters Made of Natural Gypsum 
                         </p>
-                        <a href="# " class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
+                        <a href="{{route('plaster')}}" class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                     <!-- ignle #height solari end -->
                 </div>
@@ -733,12 +733,14 @@
 
                         </div>
                         <a href="# ">
-                            <h5 class="title">Fire & Moisture Resistant Board</h5>
+                            <h5 class="title">Wall Putty</h5>
                         </a>
                         <p class="disc">
-                            Boards with both fire and moisture resistance.
+                            Making your walls and ceilings ready to paint.
+
+
                         </p>
-                        <a href="# " class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
+                        <a href="#" class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                     <!-- ignle #height solari end -->
                 </div>
