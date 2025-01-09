@@ -20,7 +20,7 @@ Route::get('/why-gypsum', [PagesController::class, 'whygypsum'])->name('whygypsu
 Route::get('/product', [PagesController::class, 'product'])->name('product');
 Route::get('/resources', [PagesController::class, 'resources'])->name('resources');
 Route::get('/gallery', [PagesController::class, 'gallery'])->name('gallery');
-
+Route::get('/projects', [PagesController::class, 'projects'])->name('projects');
 
 
 

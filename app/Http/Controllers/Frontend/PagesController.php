@@ -31,4 +31,9 @@ class PagesController extends Controller
     {
         return view('frontend.pages.gallery');
     }
+
+    public function projects()
+    {
+        return view('frontend.pages.projects');
+    }
 }

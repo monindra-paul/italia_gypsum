@@ -87,7 +87,7 @@
 
 
                     </div>
-                    <a href="service-details.html">
+                    <a href="https://drive.google.com/file/d/11D0G4JNHZXP3LGdBntMZ0qE3Uh51f48o/view?usp=sharing" target="_blank">
                         <h5 class="title">
                            Plaster Board Technical Specifications
                         </h5>
@@ -95,7 +95,7 @@
                     {{-- <p class="disc">
                         Massa convallis risus nibh penatbus erat porta, moltie commodo sodales
                     </p> --}}
-                    <a href="service-details.html" class="rts-read-more-btn">View Now<i class="fa-regular fa-arrow-up-right"></i></a>
+                    <a href="https://drive.google.com/file/d/11D0G4JNHZXP3LGdBntMZ0qE3Uh51f48o/view?usp=sharing" target="_blank" class="rts-read-more-btn">View Now<i class="fa-regular fa-arrow-up-right"></i></a>
                 </div>
             </div>
             {{-- <div class="col-lg-4 col-md-6 col-sm-12 col-12">

@@ -421,50 +421,10 @@
                             This gives extra coverage, and an exciting white finish. It is economical in usage, is fire-resistant and as with all our plasters there is no curing required.
                         </p>
                         <!-- ingle information start -->
-
-                        <h3>Technical Specification
-
-                        </h3>
                         <div>
-                            <table class="table table-hover">
-                                <thead>
-                                  {{-- <tr>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;" scope="col">Dimensions	</th>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">Standard	</th>
-                                    <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">On request
-                                    </th>
-                                  </tr> --}}
-                                </thead>
-                                <tbody>
-                                  <tr>
-                                    <td>Water/Plaster Ratio</td>
-                                    <td>60 - 65%	</td>
-                                    
-                                  </tr>
-                                  <tr>
-                                    <td>Initial    Setting Time	</td>
-                                    <td>15 to 20 Min</td>
-                                    {{-- <td>1200</td> --}}
-                                  </tr>
-                                  <tr>
-                                    
-                                   
-                                    <td>Coverage  	</td>
-                                    <td>12 kg / sq.m for 1 cmm thickness</td>
-                                    
-                                  </tr>
-                               
-                                 <tr>
-                                    
-                                   
-                                    <td>Packing 	</td>
-                                    <td>25 kg PP Bags</td>
-                                    
-                                  </tr>
-                               
-                                </tbody>
-                            </table>
+                            <img src="assets/images/italia/paralite.png" alt="team-image">
                         </div>
+                        
                         <!-- ingle information end -->
                     </div>
                 </div>
@@ -472,9 +432,76 @@
 
             <div class="col-lg-5">
                 <div class="thumbnail m-img">
-                    <img src="assets/images/italia/aqua-main.webp" alt="team-image">
+                    <img src="assets/images/italia/mplaster.jpg" alt="team-image" style="border-radius: 10px">
                 </div>
             </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <h3>Features</h3>
+            <ul>
+                <li>Machine plaster applications are faster compared to traditional manual applications. This can have a positive impact on construction project schedules </li>
+                <li>Requies less labour and helps us achieve faster results.                </li>
+                <li>Machine plaster applications can lead to smoother and higher-quality results. This can contribute to a more aesthetic and professional appearance ance of wall or ceiling surfaces         </li>
+                <li>Machine systems allow precise control of the amount of plaster, which can reduce waste and lower material costs. </li>
+                <li>While manual plaster applications can sometimes jeopardize the physical health of workers, machine usage is better in terms of occupational health and safety.</li>
+            </ul>
+
+            <h3>Features & Benefits</h3>
+            <img src="assets/images/italia/mplasterbenefits.png" alt="" srcset="">
+        </div>
+        <div class="col-6">
+            
+<h3>Technical Specification
+
+</h3>
+<div>
+    <table class="table table-hover">
+        <thead>
+          {{-- <tr>
+            <th style="background-color: rgb(0, 4, 79); color:white;" scope="col">Dimensions	</th>
+            <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">Standard	</th>
+            <th style="background-color: rgb(0, 4, 79); color:white;"  scope="col">On request
+            </th>
+          </tr> --}}
+        </thead>
+        <tbody>
+          <tr>
+            <td>Water/Plaster Ratio</td>
+            <td>60 - 65%	</td>
+            
+          </tr>
+          <tr>
+            <td>Initial    Setting Time	</td>
+            <td>15 to 20 Min</td>
+            {{-- <td>1200</td> --}}
+          </tr>
+          <tr>
+            
+           
+            <td>Coverage  	</td>
+            <td>12 kg / sq.m for 1 cmm thickness</td>
+            
+          </tr>
+       
+         <tr>
+            
+           
+            <td>Packing 	</td>
+            <td>25 kg PP Bags</td>
+            
+          </tr>
+       
+        </tbody>
+    </table>
+</div>
+
         </div>
     </div>
 </div>

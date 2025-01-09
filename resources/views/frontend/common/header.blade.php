@@ -114,7 +114,7 @@
                                             </ul>
                                         </li>
                                         <li class="">
-                                            <a class="nav-link" href="#">PROJECTS</a>
+                                            <a class="nav-link" href="{{route('projects')}}">PROJECTS</a>
 
                                         </li>
                                         <li><a class="nav-link" href="{{route('gallery')}}">GALLERY</a></li>
