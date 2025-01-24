@@ -17429,6 +17429,18 @@ nav ul li a {
   background-image: url(../images/italia/pages/regular.webp);
 }
 
+.bg-breadcrumb-moisture {
+  background-image: url(../images/italia/pages/moisture.webp);
+}
+
+.bg-breadcrumb-fire {
+  background-image: url(../images/italia/pages/fire.webp);
+}
+
+.bg-breadcrumb-frmr {
+  background-image: url(../images/italia/pages/frmr.webp);
+}
+
 
 
 .bg-breadcrumb-gypsum {

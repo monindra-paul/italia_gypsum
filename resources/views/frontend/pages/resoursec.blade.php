@@ -98,7 +98,7 @@
                     <a href="https://drive.google.com/file/d/11D0G4JNHZXP3LGdBntMZ0qE3Uh51f48o/view?usp=sharing" target="_blank" class="rts-read-more-btn">View Now<i class="fa-regular fa-arrow-up-right"></i></a>
                 </div>
             </div>
-            {{-- <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                 <div class="service-single-s-main">
                     <div class="icon">
 
@@ -112,17 +112,15 @@
 
 
                     </div>
-                    <a href="service-details.html">
+                    <a href="https://drive.google.com/file/d/1Q1W3tNDwjJjUbgUZ4qWZbKYe7l3tRw20/view?usp=sharing" target="_blank">
                         <h5 class="title">
-                            Provide Best Service
+                          Italia Gypsum <br>Profile
                         </h5>
                     </a>
-                    <p class="disc">
-                        Massa convallis risus nibh penatbus erat porta, moltie commodo sodales
-                    </p>
-                    <a href="service-details.html" class="rts-read-more-btn">Read More <i class="fa-regular fa-arrow-up-right"></i></a>
+                    
+                    <a href="https://drive.google.com/file/d/1Q1W3tNDwjJjUbgUZ4qWZbKYe7l3tRw20/view?usp=sharing" target="_blank" class="rts-read-more-btn">View Now <i class="fa-regular fa-arrow-up-right"></i></a>
                 </div>
-            </div> --}}
+            </div>
         </div>
     </div>
 </div>
