@@ -17422,12 +17422,25 @@ nav ul li a {
   background-image: url(../images/italia/about.png);
 }
 
+
+
+
+.bg-breadcrumb-regular {
+  background-image: url(../images/italia/pages/regular.webp);
+}
+
+
+
 .bg-breadcrumb-gypsum {
   background-image: url(../images/italia/pages/why22.webp);
 }
 
+.bg-breadcrumb-glassmat {
+  background-image: url(../images/italia/glassmatcover.jpg);
+}
+
 .bg-breadcrumb-plasters {
-  background-image: url(../images/italia/pages/plaster-1.webp);
+  background-image: url(../images/italia/plaster-1.webp);
 }
 
 .bg-breadcrumb-jointx {
@@ -33941,3 +33954,13 @@ input[type="range"]:focus::-ms-fill-lower {
 input[type="range"]:focus::-ms-fill-upper {
   background: #ffffff;
 }
+
+
+
+
+/* regular board icon style custom italia */
+
+/* #icon-r {
+  border: #000 1px solid;
+  border-radius: 50%;
+} */

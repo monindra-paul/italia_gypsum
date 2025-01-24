@@ -1,10 +1,25 @@
 @extends('frontend.layout.app')
 @section('content')
 
-<div class="container mt-4 pt-4">
-    <div class="row">
-        <div class="text-center">
-            <img src="assets/images/italia/plaster-boards.png" alt="" srcset="" width="40%">
+
+<div class="rts-bread-crumb-area bg_image bg-breadcrumb-regular">
+    <div class="container ptb--65">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="con-tent-main">
+                    <div class="wrapper">
+                        <span class="bg-text-stok">Regular Board</span>
+                        <div class="title skew-up">
+                            <a href="#">Regular Board</a>
+                        </div>
+                        <div class="slug skew-up">
+                            <a href="{{url('/')}}">HOME /</a>
+                            <a href="#">PRODUCTS /</a>
+                            <a class="active" href="#">REGULAR BOARD</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

@@ -32,24 +32,37 @@
             <div class="col-lg-8">
                 <div class="left-service-details-wrapper">
                     <div class="thumbnail-large">
-                        <img src="assets/images/italia/about/pr.webp" alt="service-details" style="border-radius: 10px;">
+                        <img src="assets/images/italia/boardplant.png" alt="service-details" style="border-radius: 10px;">
                     </div>
                     <div class="content--sd-top  reveal">
                         <h3 class="title title-g">Story of Us</h3>
                         <p class="disc-1">
-                            Gypsum is a rapidly growing market in Kuwait. Due to the flourishing construction
-                            activities, our country's gypsum consumption is ascending day by day.
+                            Founded in 1994 by Mr. Ibrahim Alfouzan, Italia Gypsum has grown to become a trusted leader in
+                            Kuwait’s Gypsum and building materials industry. With decades of experience, we specialize in
+                            manufacturing high-quality gypsum products, including 60 x 60 cm tiles, 60 x 100 cm tiles, moldings,
+                            GRG panels, and cornices.
                         </p>
+                        <div class="container text-center">
+                            
+                            <img src="assets/images/italia/tilesabout.png" alt="" srcset="" width="80%" >
+                        </div>
+                        <br>
                         <p class="disc-2">
-                            Born in 30 October 2015, Italia Gypsum is a trusted name in the gypsum industry. The
-                            company has been led by highly experienced professionals in the industry who have redefined
-                            the modern building standards. Under their guidance and supervision, the company has set
-                            high standards on its manufacturing process, product quality and customer satisfaction. At
-                            Italia Gypsum, we make plaster-based products using 100% natural gypsum, keeping in mind
-                            that houses built today are an asset for the future and having less impact on the natural
-                            resources. For us, each house we built is the beginning of a new relation, a relation for
-                            generations. That’s why at Italia Gypsum we say, “use our products and see, they will live
-                            to tell a tale and the legacy will travel through lives.”
+
+Our expertise extends beyond manufacturing, as we offer comprehensive Design and Execution
+services through a team of around 150 skilled professionals, ensuring seamless project delivery from
+concept to completion. Italia Gypsum has played a pivotal role in numerous prestigious projects,
+including the Royal Palaces, Universities, Luxury Villas, and Malls. Our commitment to innovation,
+quality, and sustainability drives us to deliver exceptional building solutions that meet the highest
+industry standards.
+
+                        </p>
+                        <p>
+                            Building on the legacy of Mr. Ibrahim Alfouzan, his successor, Mr. Fouzan Alfouzan led our expansion
+into Gypsum-board manufacturing in 2024, further strengthening Italia Gypsum's position as
+Kuwait's largest Gypsum-board manufacturer by capacity. Looking ahead, we are preparing to
+expand into Cement-board manufacturing in the coming years, continuing our commitment to
+growth and innovation in the Gypsum industry
                         </p>
                         <p>We manufacture and market 100% natural gypsum based products for the construction industry including:</p>
 
@@ -284,103 +297,30 @@
                     <div class="col-lg-12 col-xl-6 padding-feedback-top-btm">
                         <div class="title-area-left">
                             <p class="pre">
-                                <span>Our Customers</span> Testimonial
+                                <span>A Dynamic</span> Well Experienced
                             </p>
 
                             <h3 class="title skew-up animated fadeIn" style="opacity: 1;">
                                 <div class="word-line" style="display: block; text-align: left; width: 100%;">
                                     <div class="word"
                                         style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                        Highest</div>
+                                        International Team</div>
                                     <div class="word"
                                         style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                        Rated</div>
+                                        of</div>
                                     <div class="word"
                                         style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                        Company</div>
+                                        Professionals</div>
                                 </div>
                             </h3>
                         </div>
                         <div class="awes-me-fun-f-content">
 
-                            <p class="disc skew-up" style="opacity: 1;">
-                            <div class="word-line" style="display: block; text-align: start; width: 100%;">
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    Dui</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    maecenas</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    tempus</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    laoreet</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    nec</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    nullam</div>
+                                                    
+                            <div class="container text-center">
+
+                                <img src="assets/images/italia/country.png" alt="" srcset="">
                             </div>
-                            <div class="word-line" style="display: block; text-align: start; width: 100%;">
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    fringilla</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    luctusoi</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    eros</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    quam</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    pellentesque</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    cras</div>
-                            </div>
-                            <div class="word-line" style="display: block; text-align: start; width: 100%;">
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    dictum</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    fermentum,</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    conubia</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    eu</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    egestas</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    velit</div>
-                            </div>
-                            <div class="word-line" style="display: block; text-align: start; width: 100%;">
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    netus</div>
-                                <div class="word"
-                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
-                                    dictumst.</div>
-                            </div>
-                            </p>
-                            <div class="score-rate">
-                                <span class="score">4.9/5</span>
-                                <div class="info-wrapper">
-                                    <p>Trust Score Rated</p>
-                                    <span>Rated by over 5000 customers</span>
-                                </div>
-                            </div>
-                            <!-- <a class="btn-under-p" href="#">View All Review</a> -->
                         </div>
                     </div>
                     <div class="col-lg-12 col-xl-6 pl--control-feedback">
@@ -395,6 +335,68 @@
 </div>
 
 
+
+
+
+
+
+
+<div class="rts-team-area rts-section-gapBottom reveal">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="title-area-center title-g">
+                    <p class="pre skew-up">
+                        <span> Our</span> Industries
+                    </p>
+                    <h2 class="title skew-up">
+                       Industries we serve
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 text-center">
+
+                <img src="assets/images/italia/companies.png" alt="" srcset="" width="70%">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container rts-section-gapBottom">
+    <div class="row">
+        <div class="title-area-center title-g">
+            <p class="pre skew-up">
+                <span> Why</span> Italia
+            </p>
+            <h2 class="title skew-up">
+               Why Italia?
+            </h2>
+        </div>
+        <h3 class="text-center" style="color:#19ae05">We Provided 95% Pure & 100% Natural Gypsum</h3>
+        <div class="col-2 text-center">
+            
+            <img src="assets/images/italia/whyitalia.png" alt="" srcset="">
+        </div>
+        <div class="col-8">
+
+            <p>
+                We understand that each customer has unique requirements, and we work hard to consistently deliver the best gypsum products, which become the preferred choice of companies, builders, and interior decorators, etc.
+Italia Gypsum takes pride in offering the highest stadard of products according to market requirements. We want to become your preferred supplier of products for partition, wall lining, ceiling, flooring, insulation, and fire protection systems. We are known for our quality, attention to detail, and un- matched industry knowledge.
+<br>
+<br>
+We are well-versed in Gypsum product development, and our products meet your performance requirements. Our ware- house is always stocked with a complete product line for cre- ating partitions, ceilings, wall linings, & interior design solu- tions. All our products are specially selected for their professional quality & reliability
+            </p>
+
+        </div>
+        <div class="col-2 text-center">
+            <img src="assets/images/italia/service.png" alt="" srcset="">
+        </div>
+    </div>
+</div>
 
 
 

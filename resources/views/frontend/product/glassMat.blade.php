@@ -4,14 +4,26 @@
 
 
 
-<div class="rts-bread-crumb-area bg_image bg-breadcrumb-plasters">
+<div class="rts-bread-crumb-area bg_image bg-breadcrumb-glassmat">
     <div class="container ptb--65">
         <div class="row">
             <div class="col-lg-12">
-                <div class="con-tent-main">
+                {{-- <div class="con-tent-main">
                     <div class="wrapper">
                         <div class="text-center">
                             <img src="assets/images/italia/plaster-boards.png" alt="" srcset="" >
+                        </div>
+                    </div>
+                </div> --}}
+                <div class="con-tent-main">
+                    <div class="wrapper">
+                        <span class="bg-text-stok">Glass Mat</span>
+                        <div class="title skew-up">
+                            <a href="#">Glass Mat</a>
+                        </div>
+                        <div class="slug skew-up">
+                            <a href="{{url('/')}}">HOME /</a>
+                            <a class="active" href="#">GLASS MAT</a>
                         </div>
                     </div>
                 </div>

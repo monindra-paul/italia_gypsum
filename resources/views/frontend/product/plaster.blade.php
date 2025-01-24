@@ -25,6 +25,23 @@
 <!-- rts breadcrumb area end -->
 <!-- header style two End -->
 
+
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-6">
+            <img src="assets/images/italia/plasterworks.png" alt="" srcset="" width="60%">
+            <p>Gypsum plastering is an environmental friendly alternative to traditional sand-cement application for internal plastering surfaces. Gypsum plastering is also a faster application method for internal surfaces, since it does not require time consuming water curing process.
+            </p>
+        </div>
+        <div class="col-6">
+            <img src="assets/images/italia/plasterpoints.png" alt="" srcset="">
+        </div>
+    </div>
+</div>
+
+
+
 <div class="container mt-4">
     <div class="row g-5 mb--50">
         <div class="col-lg-12">
@@ -34,7 +51,7 @@
                         <div class="col-lg-12">
                             <div class="title-area-center">
                                 <p class="pre skew-up">
-                                    {{-- <span> Why</span> Gypsum --}}
+                                    <span> Plaster</span> Difference
                                 </p>
                                 <h2 class="title skew-up">
                                     Difference Between <br> Sand Plaster & Gypsum Plaster
@@ -48,10 +65,10 @@
     </div>
 </div>
 
-<div class="container">
+<div class="container mb-5">
     <div class="row">
-        <div class="col-12">
-            <img src="assets/images/italia/plaster-vs.png" alt="" srcset="">
+        <div class="col-12 text-center">
+            <img src="assets/images/italia/plaster-vs.png" alt="" srcset="" width="75%">
         </div>
     </div>
 </div>
