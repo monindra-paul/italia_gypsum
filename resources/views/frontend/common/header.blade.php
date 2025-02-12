@@ -70,7 +70,7 @@
                                             <a class="nav-link" href="#">PRODUCTS</a>
                                             <ul class="submenu">
                                                 <li class="sub-dropdown">
-                                                    <a href="javascript:void(0);">PLASTER BOARDS</a>
+                                                    <a href="javascript:void(0);">GYPSUM BOARDS</a>
                                                     <ul class="submenu third-lvl base">
 
                                                         <li><a class="mobile-menu-link" href="{{route('product.universalPlaster')}}">REGULAR</a></li>
@@ -82,7 +82,7 @@
                                                     </ul>
                                                 </li>
                                                 <li class="#">
-                                                    <a href="{{route('plaster')}}">PLASTERS</a>
+                                                    <a href="{{route('plaster')}}">WALL PLASTERS</a>
                                                     {{-- <ul class="submenu third-lvl base">
                                                         <li><a class="mobile-menu-link" href="#">WHY PLASTER</a></li>
                                                         <li><a class="mobile-menu-link" href="#">VINTAGE</a></li>
@@ -98,15 +98,16 @@
                                                 </li> 
                                                 
                                                 <li class="#">
-                                                    <a href="{{route('product.jointComp')}}">JOINTING COMPOUND</a>                                                    
+                                                    <a href="{{route('product.jointComp')}}">JOINTING COMPOUND & WALL PUTTY</a>                                                    
                                                 </li>
                                                 
-                                                <li class="#">
+                                                {{-- <li class="#">
                                                     <a href="javascript:void(0);">WALL PUTTY</a>                                                    
-                                                </li>
+                                                </li> --}}
 
                                                 <li class="#">
-                                                    <a href="javascript:void(0);">METAL ACCESSORIES</a>                                                    
+                                                    <a href="javascript:void(0);">
+                                                        POP CEILING TILES, GRG PANELS & CORNICES</a>                                                    
                                                 </li>
 
                                                 

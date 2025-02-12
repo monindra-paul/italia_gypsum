@@ -25,48 +25,67 @@
 <!-- header style two End -->
 
 
+
 <!-- rts service details area start -->
-<div class="rts-service-details-area mt-2">
+<div class="rts-service-details-area mt-4">
     <div class="container">
         <div class="row g-40">
             <div class="col-lg-8">
+                <div class="title-area-center title-g">
+                    <p class="pre skew-up">
+                        <span> Our</span> Industries
+                    </p>
+                    <h2 class="title skew-up">
+                        Industries we serve
+                    </h2>
+                </div>
                 <div class="left-service-details-wrapper">
                     <div class="thumbnail-large">
-                        <img src="assets/images/italia/boardplant.png" alt="service-details" style="border-radius: 10px;">
+                        <img src="assets/images/italia/companies.png" alt="service-details"
+                            style="border-radius: 10px;">
                     </div>
                     <div class="content--sd-top  reveal">
                         <h3 class="title title-g">Story of Us</h3>
                         <p class="disc-1">
-                            Founded in 1994 by Mr. Ibrahim Alfouzan, Italia Gypsum has grown to become a trusted leader in
-                            Kuwait’s Gypsum and building materials industry. With decades of experience, we specialize in
-                            manufacturing high-quality gypsum products, including 60 x 60 cm tiles, 60 x 100 cm tiles, moldings,
+                            Founded in 1994 by Mr. Ibrahim Alfouzan, Italia Gypsum has grown to become a trusted leader
+                            in
+                            Kuwait’s Gypsum and building materials industry. With decades of experience, we specialize
+                            in
+                            manufacturing high-quality gypsum products, including 60 x 60 cm tiles, 60 x 100 cm tiles,
+                            moldings,
                             GRG panels, and cornices.
                         </p>
                         <div class="container text-center">
-                            
-                            <img src="assets/images/italia/tilesabout.png" alt="" srcset="" width="80%" >
+
+                            <img src="assets/images/italia/tilesabout.png" alt="" srcset="" width="80%">
                         </div>
                         <br>
                         <p class="disc-2">
 
-Our expertise extends beyond manufacturing, as we offer comprehensive Design and Execution
-services through a team of around 150 skilled professionals, ensuring seamless project delivery from
-concept to completion. Italia Gypsum has played a pivotal role in numerous prestigious projects,
-including the Royal Palaces, Universities, Luxury Villas, and Malls. Our commitment to innovation,
-quality, and sustainability drives us to deliver exceptional building solutions that meet the highest
-industry standards.
+                            Our expertise extends beyond manufacturing, as we offer comprehensive Design and Execution
+                            services through a team of around 150 skilled professionals, ensuring seamless project
+                            delivery from
+                            concept to completion. Italia Gypsum has played a pivotal role in numerous prestigious
+                            projects,
+                            including the Royal Palaces, Universities, Luxury Villas, and Malls. Our commitment to
+                            innovation,
+                            quality, and sustainability drives us to deliver exceptional building solutions that meet
+                            the highest
+                            industry standards.
 
                         </p>
                         <p>
-                            Building on the legacy of Mr. Ibrahim Alfouzan, his successor, Mr. Fouzan Alfouzan led our expansion
-into Gypsum-board manufacturing in 2024, further strengthening Italia Gypsum's position as
-Kuwait's largest Gypsum-board manufacturer by capacity. Looking ahead, we are preparing to
-expand into Cement-board manufacturing in the coming years, continuing our commitment to
-growth and innovation in the Gypsum industry
+                            Building on the legacy of Mr. Ibrahim Alfouzan, his successor, Mr. Fouzan Alfouzan led our
+                            expansion
+                            into Gypsum-board manufacturing in 2024, further strengthening Italia Gypsum's position as
+                            Kuwait's largest Gypsum-board manufacturer by capacity. Looking ahead, we are preparing to
+                            expand into Cement-board manufacturing in the coming years, continuing our commitment to
+                            growth and innovation in the Gypsum industry
                         </p>
-                        <p>We manufacture and market 100% natural gypsum based products for the construction industry including:</p>
+                        <p>We manufacture and market 100% natural gypsum based products for the construction industry
+                            including:</p>
 
-                        
+
 
                     </div>
                     {{-- <div class="row g-5 align-items-center reveal mt-3">
@@ -119,7 +138,7 @@ growth and innovation in the Gypsum industry
                 <div class="rts-single-wized Categories">
                     <div class="wized-header">
                         <h5 class="title text-start mt--0">
-                            We manufacture and market 100% natural gypsum based products.
+                            We manufacture 100% natural gypsum based products.
                         </h5>
                     </div>
                     <div class="wized-body">
@@ -234,18 +253,26 @@ growth and innovation in the Gypsum industry
 <!-- rts service details area end -->
 
 
-<div class="container mb-3">
-    <div class="text-center mb-5">
-        <img src="assets/images/italia/italia-products.png" alt="" srcset="" width="45%">
+
+<div class="container">
+    <div class="row align-items-center">
+        <div class="col-4 text-center">
+            <img src="assets/images/italia/boardpoints.png" alt="" srcset="" width="130%">
+        </div>
+
+        <div class="col-4 text-center">
+            <img src="assets/images/italia/mkwt.png" alt="" srcset="" width="80%">
+        </div>
+        <div class="col-4 text-center">
+            <img src="assets/images/italia/plasterpoints.png" alt="" srcset="">
+        </div>
     </div>
 </div>
 
 
-  
 
 
 
-    
 <div class="rts-awesome-funfacts-area bg-awesome-feedback mb-5">
     <div class="container-75">
         <div class="row align-items-center">
@@ -266,7 +293,8 @@ growth and innovation in the Gypsum industry
                                         Customers</div>
                                 </div>
                             </h5> --}}
-                            <p>To provide high-quality, sustainable gypsum products through innovation, efficiency, and exceptional service, enhancing value for our customers and environment.
+                            <p>To provide high-quality, sustainable gypsum products through innovation, efficiency, and
+                                exceptional service, enhancing value for our customers and environment.
                             </p>
                         </div>
                     </div>
@@ -286,7 +314,8 @@ growth and innovation in the Gypsum industry
                                         Solution</div>
                                 </div>
                             </h5> --}}
-                            <p>Innovating with sustainable gypsum solutions for superior quality and a greener future.</p>
+                            <p>Innovating with sustainable gypsum solutions for superior quality and a greener future.
+                            </p>
                         </div>
                     </div>
                     <!-- single feedback area end -->
@@ -316,7 +345,7 @@ growth and innovation in the Gypsum industry
                         </div>
                         <div class="awes-me-fun-f-content">
 
-                                                    
+
                             <div class="container text-center">
 
                                 <img src="assets/images/italia/country.png" alt="" srcset="">
@@ -336,67 +365,151 @@ growth and innovation in the Gypsum industry
 
 
 
-
-
-
-
-
-<div class="rts-team-area rts-section-gapBottom reveal">
+<div class="rts-about-area rts-section-gapBottom">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="title-area-center title-g">
-                    <p class="pre skew-up">
-                        <span> Our</span> Industries
-                    </p>
-                    <h2 class="title skew-up">
-                       Industries we serve
-                    </h2>
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <!-- about inner solar energy -->
+                <div class="rts-about-left-image-area">
+                    <div class="thumbnail">
+                        <img src="assets/images/italia/whychoose.png" alt="solar energy">
+                        <!-- <div class="small-image-area images"
+                            style="translate: none; rotate: none; scale: none; transform: translate3d(-115.056px, 0px, 0px);">
+                            <img src="assets/images/about/28.png" alt="dsdsd">
+                            <p>We Have Experienced <br>
+                                More THan 25 Years</p>
+                        </div> -->
+                    </div>
                 </div>
+                <!-- about inner solar energy end -->
             </div>
-        </div>
-        <div class="row">
-            <div class="col-12 text-center">
+            <div class="col-lg-6 mt_md--30 mt_sm--40">
+                <!-- about nrighht content area start -->
+                <div class="about-right-content-area-solar-energy">
+                    <div class="title-area-left">
+                        <p class="pre">
+                            <span>Why Choose</span> Italia Gypsum
+                        </p>
 
-                <img src="assets/images/italia/companies.png" alt="" srcset="" width="70%">
+                        <h2 class="title skew-up" style="opacity: 1;">
+                            <div class="word-line" style="display: block; text-align: left; width: 100%;">
+                                <div class="word"
+                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                    Why
+                                </div>
+                                <div class="word"
+                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                    Choose
+
+                                </div>
+                                <div class="word"
+                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                    Italia
+                                </div>
+                                <div class="word"
+                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                    Gypsum
+                                </div>
+                            </div>
+
+
+                            <!-- <div class="word-line" style="display: block; text-align: left; width: 100%;">
+                                <div class="word"
+                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                </div>
+                                <div class="word"
+                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                </div>
+                                <div class="word"
+                                    style="display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0%);">
+                                </div>
+                            </div> -->
+                        </h2>
+
+                        <p>Italia Gypsum stands out in the market for several reasons:
+                        </p>
+                    </div>
+                    <!-- tab area start about -->
+                    <ul class="nav custom-nav-soalr-about nav-pills" id="pills-tab" role="tablist">
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home"
+                                aria-selected="true">Customizable Solutions</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile"
+                                aria-selected="false">Unmatched Quality</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact"
+                                aria-selected="false">Prestigious Projects</button>
+                        </li>
+                    </ul>
+
+                    <!-- nav content start -->
+                    <div class="tab-content" id="pills-tabContent">
+                        <div class="tab-pane fade active show" id="pills-home" role="tabpanel"
+                            aria-labelledby="pills-home-tab">
+                            <!-- single nav content start -->
+                            <div class="single-about-content-solar">
+                                <p class="disc">
+                                    We tailor our products to meet the specific requirements of our clients, offering
+                                    bespoke solutions for diverse construction needs.
+                                    We offer unique products like:
+                                </p>
+                                <div class="row align-items-center">
+                                    <div class="col-lg-12">
+                                        <div class="left-area-wrapper">
+                                            <img src="assets/images/italia/cussol.png" alt="about">
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!-- vedio area start -->
+
+                                <!-- vedio area end -->
+                            </div>
+                            <!-- single nav content end -->
+                        </div>
+                        <div class="tab-pane fade" id="pills-profile" role="tabpanel"
+                            aria-labelledby="pills-profile-tab">
+                            <!-- single nav content start -->
+                            <div class="single-about-content-solar">
+                                <p class="disc">
+                                    Our standards rival those of multinational corporations, providing reliable and
+                                    durable products.
+                                </p>
+
+                                <!-- vedio area end -->
+                            </div>
+                            <!-- single nav content end -->
+                        </div>
+                        <div class="tab-pane fade" id="pills-contact" role="tabpanel"
+                            aria-labelledby="pills-contact-tab">
+                            <!-- single nav content start -->
+                            <div class="single-about-content-solar">
+                                <p class="disc">
+                                    We have been entrusted with landmark projects, including the construction of Bayan
+                                    Palace, Dar Yamama Palace, Dar Jaber, among other spectacular constructions.
+                                </p>
+
+                                <!-- vedio area end -->
+                            </div>
+                            <!-- single nav content end -->
+                        </div>
+                    </div>
+                    <!-- nav content end -->
+                    <!-- tab area start about end -->
+
+                </div>
+                <!-- about nrighht content area end -->
             </div>
         </div>
     </div>
 </div>
 
-
-
-<div class="container rts-section-gapBottom">
-    <div class="row">
-        <div class="title-area-center title-g">
-            <p class="pre skew-up">
-                <span> Why</span> Italia
-            </p>
-            <h2 class="title skew-up">
-               Why Italia?
-            </h2>
-        </div>
-        <h3 class="text-center" style="color:#19ae05">We Provided 95% Pure & 100% Natural Gypsum</h3>
-        <div class="col-2 text-center">
-            
-            <img src="assets/images/italia/whyitalia.png" alt="" srcset="">
-        </div>
-        <div class="col-8">
-
-            <p>
-                We understand that each customer has unique requirements, and we work hard to consistently deliver the best gypsum products, which become the preferred choice of companies, builders, and interior decorators, etc.
-Italia Gypsum takes pride in offering the highest stadard of products according to market requirements. We want to become your preferred supplier of products for partition, wall lining, ceiling, flooring, insulation, and fire protection systems. We are known for our quality, attention to detail, and un- matched industry knowledge.
-<br>
-<br>
-We are well-versed in Gypsum product development, and our products meet your performance requirements. Our ware- house is always stocked with a complete product line for cre- ating partitions, ceilings, wall linings, & interior design solu- tions. All our products are specially selected for their professional quality & reliability
-            </p>
-
-        </div>
-        <div class="col-2 text-center">
-            <img src="assets/images/italia/service.png" alt="" srcset="">
-        </div>
-    </div>
-</div>
 
 
 

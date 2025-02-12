@@ -17429,8 +17429,12 @@ nav ul li a {
   background-image: url(../images/italia/pages/regular.webp);
 }
 
-.bg-breadcrumb-moisture {
+/* .bg-breadcrumb-moisture {
   background-image: url(../images/italia/pages/moisture.webp);
+} */
+
+.bg-breadcrumb-moisture {
+  background-image: url(../images/italia/glassmatcover.jpg);
 }
 
 .bg-breadcrumb-fire {
@@ -23763,7 +23767,7 @@ p {
 }
 
 .single-solari-service-start.two {
-  background-image: url("/assets/images/italia/cthome.webp");
+  background-image: url("/assets/images/italia/wallputty.webp");
 }
 
 .single-solari-service-start.three {
@@ -23771,7 +23775,7 @@ p {
 }
 
 .single-solari-service-start.four {
-  background-image: url("/assets/images/italia/wallputty.webp");
+  background-image: url("/assets/images/italia/cthome.webp");
 }
 
 .single-solari-service-start:hover .icon-area {

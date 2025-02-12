@@ -55,7 +55,8 @@
         <div class="row">
             <div class="col-xl-6 col-lg-6">
                 <div class="about__images">
-                    <img src="https://www.thespruce.com/thmb/_wp1miyXLPTOSNHcud3jADzfnCQ=/4781x0/filters:no_upscale():max_bytes(150000):strip_icc()/SPR-how-to-use-gypsum-in-gardening-5079656-hero-d3f45e9a91734ccc9969a31be9d60841.jpg" alt="" style="border-radius: 8px;">
+                    <img src="{{('assets/images/italia/adv.svg')}}" alt="" style="border-radius: 8px;">
+                    {{-- <img src="https://www.thespruce.com/thmb/_wp1miyXLPTOSNHcud3jADzfnCQ=/4781x0/filters:no_upscale():max_bytes(150000):strip_icc()/SPR-how-to-use-gypsum-in-gardening-5079656-hero-d3f45e9a91734ccc9969a31be9d60841.jpg" alt="" style="border-radius: 8px;"> --}}
                 </div>
             </div>
             <div class="col-lg-3 col-xl-3">
@@ -211,6 +212,47 @@
         </div>
     </div>
 </div>
+
+
+
+
+
+
+
+
+
+<div class="container rts-section-gapBottom mt-4">
+    <div class="row">
+        <div class="title-area-center title-g">
+            <p class="pre skew-up">
+                <span> Why</span> Italia
+            </p>
+            <h2 class="title skew-up">
+               Why Italia?
+            </h2>
+        </div>
+        <h3 class="text-center" style="color:#19ae05">We Provided 95% Pure & 100% Natural Gypsum</h3>
+        <div class="col-2 text-center">
+            
+            <img src="assets/images/italia/whyitalia.png" alt="" srcset="">
+        </div>
+        <div class="col-8">
+
+            <p>
+                We understand that each customer has unique requirements, and we work hard to consistently deliver the best gypsum products, which become the preferred choice of companies, builders, and interior decorators, etc.
+Italia Gypsum takes pride in offering the highest stadard of products according to market requirements. We want to become your preferred supplier of products for partition, wall lining, ceiling, flooring, insulation, and fire protection systems. We are known for our quality, attention to detail, and un- matched industry knowledge.
+<br>
+<br>
+We are well-versed in Gypsum product development, and our products meet your performance requirements. Our ware- house is always stocked with a complete product line for cre- ating partitions, ceilings, wall linings, & interior design solu- tions. All our products are specially selected for their professional quality & reliability
+            </p>
+
+        </div>
+        <div class="col-2 text-center">
+            <img src="assets/images/italia/service.png" alt="" srcset="">
+        </div>
+    </div>
+</div>
+
 
 
 

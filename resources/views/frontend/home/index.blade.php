@@ -393,12 +393,11 @@
                     </div>
                     <div class="content-inner">
                         <p class="disc">
-                            <li> Born in 30 October 2015, Italia Gypsum is becoming a trusted name in the
-                                rapidly growing Indian gypsum market. The company has been led by highly experienced
-                                professionals in the industry who have redefined the modern building standards.
-                            </li>
-                            <li> In India, gypsum is a rapidly growing market. Due to the flourishing construction
-                                activities our country's gypsum consumption is ascending day by day.</li>
+                            Building on the legacy of Mr. Ibrahim Alfouzan, his successor, Mr. Fouzan Alfouzan led our expansion
+                            into Gypsum-board manufacturing in 2024, further strengthening Italia Gypsum's position as
+                            Kuwait's largest Gypsum-board manufacturer by capacity. Looking ahead, we are preparing to
+                            expand into Cement-board manufacturing in the coming years, continuing our commitment to
+                            growth and innovation in the Gypsum industry.
                         </p>
 
 
@@ -447,7 +446,7 @@
                     <img src="https://www.grenzebach.com/fileadmin/Grenzebach_Group/Gips/Grenzebach_Gypsum_SuccessStory_XINFA_3.jpg"
                         alt="about" style="border-radius: 10px;">
                     <div class="vedio-icone">
-                        <a class="video-play-button play-video" href="#">
+                        <a class="video-play-button play-video" href="https://youtu.be/j5zlFgPwdNw">
                             <span></span>
                             <p class="text">
                                 Intro Video
@@ -462,13 +461,44 @@
                         <p>Years Experience</p>
                     </div>
                 </div>
+                <br>
+                <div class="thumbnail-solari-about">
+                    <img src="assets/images/italia/boardplant.png"
+                        alt="about" style="border-radius: 10px;">
+                   
+                </div>
             </div>
+           
         </div>
     </div>
 </div>
 <!-- rts about area end -->
 
 
+
+
+
+<div class="container mt-5">
+    <div class="row">
+       
+        <div class="col-6">
+            <img src="assets/images/italia/ctf.png" alt="" srcset="">
+        </div>
+        <div class="col-6">
+            <h2 class="title">BEST CEILING TILES MANUFACTURING PLANT IN KUWAIT </h2>
+            
+            <p>Founded in 1994 by Mr. Ibrahim Alfouzan, Italia Gypsum has grown to become a trusted leader in
+                Kuwait’s Gypsum and building materials industry. With decades of experience, we specialize in
+                manufacturing high-quality gypsum products, including 60 x 60 cm tiles, 60 x 100 cm tiles, moldings,
+                GRG panels, and cornices.</p>
+
+                <div class="solari-about-button-area mt--40">
+                    <a href="{{URL('/ceiling-tiles')}}" class="rts-btn btn-primary">Know More</a>
+                    
+                </div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -652,7 +682,7 @@
                             <img src="assets/images/italia/italiyawhite.svg" alt="" srcset="" width="60%">
                         </div>
                         <a href="# ">
-                            <h5 class="title">Gypsum Plaster Board</h5>
+                            <h5 class="title">Gypsum Boards & Ceiling tile</h5>
                         </a>
                         <p class="disc">
                             Light weight high performance boards ideal for walls and ceilings.
@@ -681,12 +711,13 @@
 
                         </div>
                         <a href="#">
-                            <h5 class="title">Ceiling Tiles</h5>
+                            <h5 class="title">Gypsum Wall Plasters</h5>
                         </a>
                         <p class="disc">
-                            Manufacturing plant specializing in high-quality ceiling solutions. 
+                            Making your walls and ceilings ready to paint.
+
                         </p>
-                        <a href="{{route('product.ct')}}" class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
+                        <a href="{{route('plaster')}}" class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                     <!-- ignle #height solari end -->
                 </div>
@@ -706,12 +737,12 @@
 
                         </div>
                         <a href="# ">
-                            <h5 class="title">Italia Gypsum Plasters</h5>
+                            <h5 class="title">Joining Compound & Wall Putty</h5>
                         </a>
                         <p class="disc">
                             Italia Gypsum Plasters Made of Natural Gypsum 
                         </p>
-                        <a href="{{route('plaster')}}" class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
+                        <a href="{{route('product.jointComp')}}" class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                     <!-- ignle #height solari end -->
                 </div>
@@ -733,14 +764,13 @@
 
                         </div>
                         <a href="# ">
-                            <h5 class="title">Wall Putty</h5>
+                            <h5 class="title">POP Ceiling tiles, GRG Panels & Cornices</h5>
                         </a>
                         <p class="disc">
-                            Making your walls and ceilings ready to paint.
-
-
+                            
+                            Manufacturing plant specializing in high-quality ceiling solutions. 
                         </p>
-                        <a href="#" class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
+                        <a href="{{route('product.ct')}}" class="read-more-btn">Read More<i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                     <!-- ignle #height solari end -->
                 </div>
@@ -758,10 +788,10 @@
             <div class="col-lg-5">
                 <div class="solari-title-area-three text-left">
                     <span class="pre-title skew-up">Facts numbers</span>
-                    <h2 class="title skew-up">We are manufactures & suppliers of gypsum <br>
-                        materials worldwide</h2>
-                    <p class="disc skew-up">Saving energy offers numerous benefits, both on an <br> individual level
-                        and for the environment.</p>
+                    <h2 class="title skew-up">Our Present presence is as follows in
+                        </h2>
+                    {{-- <p class="disc skew-up">Saving energy offers numerous benefits, both on an <br> individual level
+                        and for the environment.</p> --}}
                     <div class="row">
                         <div class="col-lg-10">
                             <!-- rts progress bar area start -->
@@ -770,15 +800,15 @@
                                 <div class="single-progress-area-h4">
                                     <div class="progress-top">
                                         <p class="name">
-                                            Fire Resistant Board
+                                            Kuwait
                                         </p>
                                         <span class="parcent">
-                                            90%
+                                            70%
                                         </span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar wow fadeInLeft bg--primary" role="progressbar"
-                                            style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                                            style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
                                         </div>
                                     </div>
                                 </div>
@@ -787,15 +817,15 @@
                                 <div class="single-progress-area-h4">
                                     <div class="progress-top">
                                         <p class="name">
-                                            Moisture Resistant Board
+                                           Iraq
                                         </p>
                                         <span class="parcent">
-                                            79%
+                                            20%
                                         </span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar wow fadeInLeft bg-yellow" role="progressbar"
-                                            style="width: 79%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                                            style="width: 20%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
                                         </div>
                                     </div>
                                 </div>
@@ -804,15 +834,15 @@
                                 <div class="single-progress-area-h4">
                                     <div class="progress-top">
                                         <p class="name">
-                                            Universal Regular Board
+                                           Qatar
                                         </p>
                                         <span class="parcent">
-                                            95%
+                                            10%
                                         </span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar wow fadeInLeft bg-dark" role="progressbar"
-                                            style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                                            style="width: 10%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
                                         </div>
                                     </div>
                                 </div>
@@ -1021,19 +1051,34 @@
 <!-- rts- clients review area end -->
 
 
-
-
+<span class="stok-bg images-r">
+    Partners
+</span>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="title-area-center">
+                <p class="pre skew-up">
+                    <span> Suppliers </span> & clients 
+                </p>
+                <h2 class="title skew-up">
+                    Suppliers & clients
+                </h2>
+            </div>
+        </div>
+    </div>
+</div>
 <!-- rts brand area start -->
 <div class="rts-brand-area rts-section-gap">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <div class="brand-area-h2">
-                    <a href="#"><img src="assets/images/brand/01.png" alt="brand_start"></a>
-                    <a href="#"><img src="assets/images/brand/02.png" alt="brand_start"></a>
-                    <a href="#"><img src="assets/images/brand/03.png" alt="brand_start"></a>
-                    <a href="#"><img src="assets/images/brand/04.png" alt="brand_start"></a>
-                    <a href="#"><img src="assets/images/brand/05.png" alt="brand_start"></a>
+                    <a href="#"><img src="https://gyp-techno.com/wp-content/uploads/2022/09/osdj.png.webp" alt="brand_start"></a>
+                    <a href="#"><img src="http://gyp-techno.com/wp-content/uploads/2022/09/2.jpg.webp" alt="brand_start"></a>
+                    <a href="#"><img src="http://gyp-techno.com/wp-content/uploads/2022/09/3.jpg.webp" alt="brand_start"></a>
+                    <a href="#"><img src="http://gyp-techno.com/wp-content/uploads/2022/09/4.jpg.webp" alt="brand_start"></a>
+                    <a href="#"><img src="http://gyp-techno.com/wp-content/uploads/2022/09/grenzebach.png.webp" alt="brand_start"></a>
                 </div>
             </div>
         </div>
